@@ -36,6 +36,10 @@ $(function () {
 </script>
 {% endif %}
 
+<!-- Include custom icon fonts -->
+<link rel="stylesheet" href="{{ '/assets/css/fontawesome-all.min.css' | prepend: site.baseurl | prepend: site.url }}">
+<link rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | prepend: site.baseurl | prepend: site.url }}">
+
 {% if site.enable_google_analytics %}
 <!-- Google Analytics -->
 <script>
