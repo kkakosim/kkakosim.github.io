@@ -13,10 +13,6 @@ p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
 
-article div {
-  margin-bottom: 1rem;
-}
-
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
@@ -67,7 +63,6 @@ blockquote {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
-    font-size: 1.2rem;
     p {
       display: inline-block;
       margin: 0;
