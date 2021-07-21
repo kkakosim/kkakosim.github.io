@@ -22,6 +22,7 @@ group :jekyll_plugins do
     gem 'github-pages'
     gem 'jekyll-paginate'
     gem 'jekyll-twitter-plugin'
+    gem 'jekyll-sitemap'
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'classifier-reborn'  # used for content categorization during the build
