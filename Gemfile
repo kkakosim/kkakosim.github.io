@@ -26,6 +26,9 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'classifier-reborn'  # used for content categorization during the build
+    gem 'webrick'
+    gem 'htmlcompressor'
+    gem 'htmlbeautifier'
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
