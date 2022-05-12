@@ -24,11 +24,10 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jekyll-sitemap'
     gem 'jemoji'
+    gem 'mini_racer'
     gem 'unicode_utils'
     gem 'classifier-reborn'  # used for content categorization during the build
     gem 'webrick'
-    gem 'htmlcompressor'
-    gem 'htmlbeautifier'
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
