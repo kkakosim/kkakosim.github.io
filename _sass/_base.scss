@@ -419,6 +419,12 @@ footer.sticky-bottom {
   }
 }
 
+.post-title {
+  mjx-container[jax="CHTML"][display="true"] {
+    display: unset;
+  }
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;
@@ -450,6 +456,10 @@ footer.sticky-bottom {
       &:hover {
         color: var(--global-theme-color);
       }
+    }
+
+    mjx-container[jax="CHTML"][display="true"] {
+      display: unset;
     }
   }
 }
