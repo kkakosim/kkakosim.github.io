@@ -57,3 +57,15 @@ $(document).ready(function () {
     trigger: "hover",
   });
 });
+
+// bootstrap-toc
+$(function () {
+    if($('#toc-sidebar').length){
+        var navSelector = "#toc-sidebar";
+        var $myNav = $(navSelector);
+        Toc.init($myNav);
+        $("body").scrollspy({
+            target: navSelector,
+        });
+    }
+});
