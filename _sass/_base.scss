@@ -31,11 +31,11 @@ hr {
 table {
   td,
   th {
-    color: var(--global-text-color);
+    font-size: 1rem;
   }
 
-  td {
-    font-size: 1rem;
+  th {
+    font-weight: bold;
   }
 }
 
@@ -912,8 +912,7 @@ progress::-moz-progress-bar {
   }
 }
 
-// Table of Contents
-
+/* Table of Contents */
 nav[data-toggle="toc"] {
   top: 5rem;
 
