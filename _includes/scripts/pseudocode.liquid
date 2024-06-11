@@ -26,7 +26,7 @@
     src="{{ site.third_party_libraries.pseudocode.url.js }}"
   ></script>
   <script>
-    document.onreadystatechange = () => {
+    document.addEventListener('readystatechange', () => {
       if (document.readyState === 'complete') {
         document.querySelectorAll('pre>code.language-pseudocode').forEach((elem) => {
           const texData = elem.textContent;
@@ -43,6 +43,6 @@
           pseudocode.renderElement(pseudoCodeElement);
         });
       }
-    };
+    });
   </script>
 {% endif %}
