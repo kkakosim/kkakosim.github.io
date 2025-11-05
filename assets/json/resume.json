@@ -31,82 +31,161 @@
     "highlights": [
 		"clean and sustainable chemical engineering, circular economy, renewable hydrogen, solar-driven and photo-electro-chemical processes, irradiation-assisted catalysis, hybrid thermal-photon systems, process intensification, decarbonization of cement and minerals, air quality and pollution reduction, particulate matter and aerosol characterization and apportionment, environmental fluid mechanics, digital twins and process systems modeling, environmental data analytics, techno-economic and life cycle assessment, environmental and safety decision support systems"
     ]
-  }
+  },
+    {
+      "name": "Texas A&M University at Qatar (TAMUQ)",
+      "position": "Professor (Assistant → Associate → Professor); Adjunct Professor (since 2025)",
+      "url": "https://www.qatar.tamu.edu/",
+      "startDate": "2012-12",
+      "endDate": "2025-08",
+      "location": "Doha, Qatar",
+      "summary": "Faculty member with progressive appointments; currently Adjunct Professor.",
+      "highlights": [
+        "Associate Dean for Research & Graduate Studies (2024-08 – 2025-02)",
+        "Interim Program Chair, Chemical Engineering (2024-08 – 2025-03)",
+        "Associate Dean for Graduate Studies (2023-07 – 2024-07)",
+        "Taught undergraduate and graduate courses (e.g., CHEN 304, CHEN 629).",
+        "Advised 20+ MSc students and mentored numerous UGR and graduate researchers."
+      ]
+    },
+    {
+      "name": "Centre for Research and Technology Hellas (CERTH)",
+      "position": "Principal Researcher",
+      "url": "https://www.certh.gr/",
+      "startDate": "2021-01",
+      "endDate": "2022-12",
+      "location": "Greece",
+      "summary": "Principal Researcher working on energy, environment, and materials projects.",
+      "highlights": []
+    },
+    {
+      "name": "HYETOS GP",
+      "position": "Consultant & Design Engineer – Project Manager",
+      "url": "",
+      "startDate": "2010-01",
+      "endDate": "2012-12",
+      "location": "Greece",
+      "summary": "Consulting, process design, and project management for engineering projects.",
+      "highlights": []
+    },
+    {
+      "name": "Aristotle University of Thessaloniki (AUTh)",
+      "position": "Research Assistant / Associate",
+      "url": "https://www.auth.gr/",
+      "startDate": "2002-01",
+      "endDate": "2009-12",
+      "location": "Thessaloniki, Greece",
+      "summary": "Research in environmental engineering, transport phenomena, and thermophysical properties.",
+      "highlights": []
+    }
   ],
   "volunteer": [{
-    "organization": "Organization",
+    "organization": "Athens 2004",
     "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "url": "",
+    "startDate": "2004-07-01",
+    "endDate": "2004-08-31",
+    "summary": "Spectators services at Thessaloniki",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      ""
     ]
   }],
   "education": [{
-    "institution": "University",
-    "url": "https://institution.com/",
-    "area": "Software Development",
-    "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+      "institution": "Aristotle University of Thessaloniki",
+      "location": "Thessaloniki, Greece",
+      "url": "https://www.auth.gr/",
+      "area": "Chemical Engineering",
+      "studyType": "Diploma (5 year)",
+      "startDate": "1997-10",
+      "endDate": "2002-06",
+      "score": "8.72/100 (all times upper 4% as of 2010)",
+      "courses": []
+    },
+    {
+      "institution": "Aristotle University of Thessaloniki",
+      "location": "Thessaloniki, Greece",
+      "url": "https://www.auth.gr/",
+      "area": "Chemical Engineering",
+      "studyType": "PhD",
+      "startDate": "2002-11",
+      "endDate": "2009-02",
+      "score": "Excellent",
+      "courses": []
+    }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
+      "title": "Dean’s Achievement Award",
+      "date": "2023",
+      "awarder": "Texas A&M University at Qatar",
+      "summary": ""
+    },
+    {
+      "title": "Faculty Excellence Award",
+      "date": "2019",
+      "awarder": "Texas A&M University at Qatar",
+      "summary": ""
+    },
+    {
+      "title": "Research Excellence Award for Early Career Faculty",
+      "date": "2017",
+      "awarder": "Texas A&M University at Qatar",
+      "summary": ""
+    },
+    {
+      "title": "Research Laboratory Safety Award",
+      "date": "2016",
+      "awarder": "Texas A&M University at Qatar",
+      "summary": ""
+    },
+    {
+      "title": "IChemE Hutchison Medal",
+      "date": "2015",
+      "awarder": "Institution of Chemical Engineers (IChemE)",
+      "summary": ""
+    },
+    {
+      "title": "PostDoc Honorable Distinction",
+      "date": "2009",
+      "awarder": "Research Committee of Aristotle University",
+      "summary": ""
+    },
+    {
+      "title": "PhD Honorable Distinction",
+      "date": "2008",
+      "awarder": "Research Committee of Aristotle University",
+      "summary": ""
+    },
+    {
+      "title": "Honorable Distinction",
+      "date": "2001-2002",
+      "awarder": "Technical Chamber of Greece (1st in Department)",
+      "summary": ""
+    },
+    {
+      "title": "Honorable Distinction",
+      "date": "1997-1998",
+      "awarder": "National Foundation of Scholarships, Greece",
+      "summary": ""
+    }],
   "certificates": [{
     "name": "Certificate",
     "date": "2021-11-07",
     "issuer": "Company",
     "url": "https://certificate.com"
   }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
-  "skills": [{
-    "name": "Web Development",
-    "level": "Master",
-    "keywords": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ]
-  }],
   "languages": [{
-    "language": "English",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
-  "projects": [{
-    "name": "Project",
-    "startDate": "2019-01-01",
-    "endDate": "2021-01-01",
-    "description": "Description...",
-    "highlights": [
-      "Won award at AIHacks 2016"
-    ],
-    "url": "https://project.com/"
-  }]
+      "language": "Greek",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "C2 (Certificate of Proficiency in English, University of Michigan, 2001)"
+    },
+    {
+      "language": "Italian",
+      "fluency": "B1 (Diploma di Lingua Italiano, Istituto Italiano, 2000)"
+    },
+    {
+      "language": "German",
+      "fluency": "B1 (Zertifikat Deutsch als Fremdsprache, Goethe Institute, 1997)"
+    }]
 }
