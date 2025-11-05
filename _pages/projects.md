@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Funded projects that I lead or participated in.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 5
+display_categories: [qatar, industry, tamu]
 horizontal: false
 ---
 

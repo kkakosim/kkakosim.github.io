@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>Associate Professor, Chemical Engineering
+subtitle: <a href='#'></a>Affiliations: Aristotle University of Thessaloniki; Texas A&M University at Qatar
 
 profile:
   align: right
