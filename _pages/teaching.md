@@ -6,6 +6,7 @@ description: Overview of courses that I have taught.
 nav: true
 nav_order: 6
 ---
+
 <div class="projects">
     <a id="AUTh-2025" href=".#AUTh-2025">
         <h2 class="category">Aristotle University of Thessaloniki - post 2025</h2>
@@ -15,33 +16,27 @@ nav_order: 6
         <li>HY4 - Numerical Methods for Engineers (2025-): Core, Semester 4th</li>
         <li>EXM7 - Chemical Engineering Laboratory I (2025-): Core, Semester 7th</li>
     </ul>
-
     <a id="TAMU-2012" href=".#TAMU-2012">
         <h2 class="category">Texas A&M University (Qatar/College Station) 2012-2025</h2>
     </a>
+    <h3 class="category">undergraduate</h3>
     <ul>
-        <li>MA1 - Mathematics 1 (2025-): Core, Semester 1st</li>
-        <li>HY4 - Numerical Methods for Engineers (2025-): Core, Semester 4th</li>
-        <li>EXM7 - Chemical Engineering Laboratory I (2025-): Core, Semester 7th</li>
+        <li>CHEN 304: Chemical Engineering Fluid Operations (2013–2022; core)</li>
+        <li>CHEN 481: Seminar (2018, 2020, core)</li>
+        <li>CHEN 320: Numerical Analysis for Chemical Engineers (2016-2017; core)</li>
+        <li>CHEN 382: Bioprocess Engineering (2016–2018; core)</li>
+        <li>PETE 314: Transport Processes in Petroleum Production (2014; core)</li>
     </ul>
-
-### 
-### undergraduate
-* CHEN 304: Chemical Engineering Fluid Operations (2013–2022; core)
-* CHEN 481: Seminar (2018, 2020, core)
-* CHEN 320: Numerical Analysis for Chemical Engineers (2016-2017; core)
-* CHEN 382: Bioprocess Engineering (2016–2018; core)
-* PETE 314: Transport Processes in Petroleum Production (2014; core)
-#### graduate
-* CHEN 629: Advanced Transport Phenomena (2020-2024; core)
-* ICPE 632: Renewable Abiotic Energy Resources & Conversion (2021-2022; core)
-* CHEN 689: Special Topics in Solar Chemical Engineering (2018-2020, elective)
-* ICPE 689: Special Topics in Solar Chemical Engineering (2018-2020, elective)
-* CHEN 660: Quantitative Risk Analysis (2013-2017; elective)
-* CHEN 681:	Seminar (2013-2014, 2021-2025; core)
-* CHEN 689: Special Topics in Airborne Pollution Modeling and Control (2013-2014, 2019; elective)
-
-
+    <h3 class="category">graduate</h3>
+    <ul>
+        <li>CHEN 629: Advanced Transport Phenomena (2020-2024; core)</li>
+        <li>ICPE 632: Renewable Abiotic Energy Resources & Conversion (2021-2022; core)</li>
+        <li>CHEN 689: Special Topics in Solar Chemical Engineering (2018-2020, elective)</li>
+        <li>ICPE 689: Special Topics in Solar Chemical Engineering (2018-2020, elective)</li>
+        <li>CHEN 660: Quantitative Risk Analysis (2013-2017; elective)</li>
+        <li>CHEN 681: Seminar (2013-2014, 2021-2025; core)</li>
+        <li>CHEN 689: Special Topics in Airborne Pollution Modeling and Control (2013-2014, 2019; elective)</li>
+    </ul>
   <a id="AUTh-2010" href=".#AUTh-2010">
     <h2 class="category">Aristotle University of Thessaloniki - post 2012</h2>
   </a>
