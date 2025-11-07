@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: People
+title: people
 description: current and past members of the lab
 nav: true
 nav_order: 2
@@ -32,7 +32,6 @@ nav_order: 2
         <li>Arsenis Hadjimihailides (2019): Aristotle University of Thessaloniki, Greece</li>
         <li>Hala Hassan (2020): University of Surrey, UK</li>
         <li>Ahmed Badreldin (2023): Texas A&M University, US</li>
-        <li></li>
     </ol>
         <h2 class="category">post-graduate</h2>
     <ol>
