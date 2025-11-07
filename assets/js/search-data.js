@@ -433,11 +433,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/c1.001.risk/";
+            },},{id: "books-vehicle-induced-fugitive-particulate-matter-emissions-in-arid-environments",
+          title: 'Vehicle-induced fugitive particulate matter emissions in arid environments',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/c1.007.vfPM/";
             },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/the_godfather.md/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
