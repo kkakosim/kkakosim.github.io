@@ -4,6 +4,7 @@ title: Books&Tech
 permalink: /books/
 nav: true
 collection: books
+display_categories: [books, technology]
 nav_order: 4
 ---
 

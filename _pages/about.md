@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a>Affiliations: Aristotle University of Thessaloniki; Texas A&M University at Qatar
+subtitle: Affiliations: <a href='#'>Aristotle University of Thessaloniki</a>; <a href='#'>Texas A&M University at Qatar</a>
 
 profile:
   align: right
