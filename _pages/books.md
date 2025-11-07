@@ -2,7 +2,7 @@
 layout: book-shelf
 title: Books&Tech
 permalink: /books/
-nav: true
+nav: false
 collection: books
 display_categories: [books, technology]
 nav_order: 5
