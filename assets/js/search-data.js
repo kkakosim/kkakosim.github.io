@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-people",
-          title: "People",
+          title: "people",
           description: "current and past members of the lab",
           section: "Navigation",
           handler: () => {
