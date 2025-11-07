@@ -5,7 +5,7 @@ permalink: /projects/
 description: Funded projects that I lead or participated in.
 nav: true
 nav_order: 6
-display_categories: [qatar, industry, tamu]
+display_categories: [qatar, industry, tamu, work, fun]
 horizontal: false
 ---
 
