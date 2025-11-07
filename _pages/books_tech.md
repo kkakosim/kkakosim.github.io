@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: book_covers/c1.007.vfPM.jpg
-    content: /_books/c1.007.vfPM.md
+    content: This chapter explores the sources, mechanisms, and impacts of PM emissions caused by vehicles in arid environments. In these regions, the combination of sparse vegetation, dry conditions, and loose soil particles creates a unique setting for the generation and dispersion of fugitive dust. The chapter will cover the factors influencing PM emissions, the methodologies for measuring and modeling these emissions, and the implications for air quality and human health. Additionally, it will discuss mitigation strategies and policies aimed at reducing vehicle-induced PM emissions in arid regions. #/_books/c1.007.vfPM.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Vehicle-induced fugitive particulate matter emissions in arid environments</p>
@@ -19,7 +19,7 @@ profiles:
       <p>K. Kakosimos, 2025</p>
   - align: left
     image: book_covers/c1.001.risk-en.jpg
-    content: /_books/c1.001.risk.md
+    content:  Today's risk analysis is a very challenging field, and a solid understanding of the calculations procedure associated with it is essential for anyone involved. Fires, Explosions, and Toxic Gas Dispersions: Effects Calculation and Risk Analysis provides an overview of the methods used to assess the risk of fires, explosions, and toxic gas dispersion. #/_books/c1.001.risk.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Fires, Explosions, and Toxic Gas Dispersions</p>
