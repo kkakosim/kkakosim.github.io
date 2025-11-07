@@ -10,6 +10,13 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-people",
+          title: "People",
+          description: "current and past members of the lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
           section: "Navigation",
