@@ -5,7 +5,7 @@ permalink: /books/
 nav: true
 collection: books
 display_categories: [books, technology]
-nav_order: 4
+nav_order: 5
 ---
 
 > Working on books, book chapters, and technology development requires quite different approach and longer committment, compared to typical journal publications - therefore, I dedicate a different space for their discussion.
