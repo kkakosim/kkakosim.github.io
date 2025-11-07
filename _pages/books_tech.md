@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: book_covers/c1.007.vfPM.jpg
-    content: books/c1.007.vfPM.md
+    content: /_books/c1.007.vfPM.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Vehicle-induced fugitive particulate matter emissions in arid environments</p>
@@ -19,7 +19,7 @@ profiles:
       <p>K. Kakosimos, 2025</p>
   - align: left
     image: book_covers/c1.001.risk-en.jpg
-    content: books/c1.001.risk.md
+    content: /_books/c1.001.risk.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Fires, Explosions, and Toxic Gas Dispersions</p>
