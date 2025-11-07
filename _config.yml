@@ -173,6 +173,7 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
+  - books.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
@@ -313,7 +314,7 @@ filtered_bibtex_keywords:
     google_scholar_id,
     html,
     inspirehep_id,
-    notes,
+    note,
     pdf,
     poster,
     preview,

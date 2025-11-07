@@ -38,7 +38,7 @@ nav_order: 6
         <li>CHEN 689: Special Topics in Airborne Pollution Modeling and Control (2013-2014, 2019; elective)</li>
     </ul>
   <a id="AUTh-2010" href=".#AUTh-2010">
-    <h2 class="category">Aristotle University of Thessaloniki - post 2012</h2>
+    <h2 class="category">Aristotle University of Thessaloniki - prior 2012</h2>
   </a>
     <ul>
         <li>2010-2012: Mass Transfer on Environmental Processes (Core)</li>
