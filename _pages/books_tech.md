@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /books_tech/
-title: Books & Technology
+title: books&technology
 description: Working on books, book chapters, and technology development requires quite different approach and longer committment, compared to typical journal publications - therefore, I dedicate a different space for their discussion.
 nav: true
 nav_order: 5
