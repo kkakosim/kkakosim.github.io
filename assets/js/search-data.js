@@ -427,7 +427,7 @@ ninja.data = [{
           title: 'COST ES1006LPI',
           description: "Evaluation, improvement and guidance for the use of local-scale emergency prediction and response tools for airborne hazards in built environments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/TQ_001_project/";
+              window.location.href = "/projects/1_project/";
             },},{id: "projects-qapco",
           title: 'QAPCO',
           description: "Study for Process Wastewater Discharge and NOx Emission Environmental Costs",
