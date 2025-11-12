@@ -10,15 +10,15 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: /assets/img/book_covers/c1.001.risk-en.jpg
+    image: book_covers/c1.001.risk-en.jpg
     content: books/c1.001.risk.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Fires, Explosions, and Toxic Gas Dispersions</p>
       <p>MJ.Assael & KE. Kakosimos, 2010</p>
   - align: left
-    image: /assets/img/book_covers/c1.007.vfPM.jpg
-    content: books/c1.001.risk.md
+    image: book_covers/c1.007.vfPM.jpg
+    content: books/c1.007.vfPM.md
     image_circular: false # crops the image to make it circular
     more_info: >
         <p>Vehicle-induced fugitive particulate matter emissions in arid environments</p>
