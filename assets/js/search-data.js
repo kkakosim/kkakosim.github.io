@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-books-amp-tech",
-          title: "Books &amp; Tech",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
-          },
         },{id: "nav-projects",
           title: "projects",
           description: "Funded projects that I lead or participated in.",
@@ -424,16 +417,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/c1.007.vfPM/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-open-innovation-acceleration-program-at-walk-auth-www",
+          title: 'Open Innovation Acceleration Program at WALK_AUTH [www]',
+          description: "",
+          section: "News",},{id: "news-advancing-materials-science-bridging-chemistry-and-engineering-for-a-sustainable-future-conference-www",
+          title: 'Advancing Materials Science: Bridging Chemistry and Engineering for a Sustainable Future conference [www]...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
