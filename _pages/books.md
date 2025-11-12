@@ -11,14 +11,14 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: /assets/img/book_covers/c1.001.risk-en.jpg
-    content: /_books/c1.001.risk.md
+    content: /assets/_books/c1.001.risk.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Fires, Explosions, and Toxic Gas Dispersions</p>
       <p>MJ.Assael & KE. Kakosimos, 2010</p>
   - align: left
     image: /assets/img/book_covers/c1.007.vfPM.jpg
-    content: /_books/c1.001.risk.md
+    content: /assets/_books/c1.001.risk.md
     image_circular: false # crops the image to make it circular
     more_info: >
         <p>Vehicle-induced fugitive particulate matter emissions in arid environments</p>
