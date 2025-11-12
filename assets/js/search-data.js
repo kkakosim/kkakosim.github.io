@@ -423,7 +423,12 @@ ninja.data = [{
           section: "News",},{id: "news-from-lab-to-market-at-walk-auth-www",
           title: 'From Lab to Market at WALK_AUTH [www]',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
