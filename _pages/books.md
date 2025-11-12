@@ -1,8 +1,8 @@
 ---
-layout: book-shelf
+layout: profiles
 title: Books&Tech
 permalink: /books/
-nav: false
+nav: true
 collection: books
 display_categories: [books, technology]
 nav_order: 5
