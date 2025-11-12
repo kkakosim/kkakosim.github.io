@@ -423,11 +423,16 @@ ninja.data = [{
           section: "News",},{id: "news-from-lab-to-market-at-walk-auth-www",
           title: 'From Lab to Market at WALK_AUTH [www]',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-cost-es1006lpi",
+          title: 'COST ES1006LPI',
+          description: "Evaluation, improvement and guidance for the use of local-scale emergency prediction and response tools for airborne hazards in built environments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/TQ_001_project/";
+            },},{id: "projects-qapco",
+          title: 'QAPCO',
+          description: "Study for Process Wastewater Discharge and NOx Emission Environmental Costs",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/TQ_002_project/";
             },},{
         id: 'social-email',
         title: 'email',
