@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: This chapter explores the sources, mechanisms, and impacts of PM emissions caused by vehicles in arid environments. In these regions, the combination of sparse vegetation, dry conditions, and loose soil particles creates a unique setting for the generation and dispersion of fugitive dust. The chapter will cover the factors influencing PM emissions, the methodologies for measuring and modeling these emissions, and the implications for air quality and human health. Additionally, it will discuss mitigation strategies and policies aimed at reducing vehicle-induced PM emissions in arid regions.
+    content: c1.001.risk.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Vehicle-induced fugitive particulate matter emissions in arid environments</p>
