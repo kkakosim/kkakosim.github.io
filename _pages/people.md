@@ -23,7 +23,7 @@ nav_order: 2
         <li>George Pitsos</li>
         <li>Paraskevi Karathanasi</li>
     </ul>
-    <a id="doctorate" href="doctorate">
+    <a id="doctorate" href=".#doctorate">
         <h2 class="category">Doctorate</h2>
     </a>
     <ol>

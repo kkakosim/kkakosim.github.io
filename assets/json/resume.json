@@ -14,33 +14,35 @@
       "countryCode": "GR",
       "region": "Central Macedonia"
     },
-    "profiles": [{
-      "network": "X",
-      "username": "kkakosim",
-      "url": "https://x.com/kkakosim"
-    }]
-  },
-  "work": [
-  {
-    "name": "Cleaner Engineering & Technology",
-    "position": "Associate Editor",
-    "url": "https://www.sciencedirect.com/journal/cleaner-engineering-and-technology",
-    "startDate": "2025-10-01",
-    "endDate": "2026-09-30",
-    "summary": "Handling and selection of submissions",
-    "highlights": []
-  },
-  {
-    "name": "Aristotle University of Thessaloniki (AUTh)",
-    "position": "Associate Professor",
-    "url": "https://www.cheng.auth.gr",
-    "startDate": "2024-09-01",
-    "endDate": "",
-    "summary": "Teaching and research in chemical engineering with emphasis on experimental transport phenomena.",
-    "highlights": [
-		"clean and sustainable chemical engineering, circular economy, renewable hydrogen, solar-driven and photo-electro-chemical processes, irradiation-assisted catalysis, hybrid thermal-photon systems, process intensification, decarbonization of cement and minerals, air quality and pollution reduction, particulate matter and aerosol characterization and apportionment, environmental fluid mechanics, digital twins and process systems modeling, environmental data analytics, techno-economic and life cycle assessment, environmental and safety decision support systems"
+    "profiles": [
+      {
+        "network": "X",
+        "username": "kkakosim",
+        "url": "https://x.com/kkakosim"
+      }
     ]
   },
+  "work": [
+    {
+      "name": "Cleaner Engineering & Technology",
+      "position": "Associate Editor",
+      "url": "https://www.sciencedirect.com/journal/cleaner-engineering-and-technology",
+      "startDate": "2025-10-01",
+      "endDate": "2026-09-30",
+      "summary": "Handling and selection of submissions",
+      "highlights": []
+    },
+    {
+      "name": "Aristotle University of Thessaloniki (AUTh)",
+      "position": "Associate Professor",
+      "url": "https://www.cheng.auth.gr",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Teaching and research in chemical engineering with emphasis on experimental transport phenomena.",
+      "highlights": [
+        "clean and sustainable chemical engineering, circular economy, renewable hydrogen, solar-driven and photo-electro-chemical processes, irradiation-assisted catalysis, hybrid thermal-photon systems, process intensification, decarbonization of cement and minerals, air quality and pollution reduction, particulate matter and aerosol characterization and apportionment, environmental fluid mechanics, digital twins and process systems modeling, environmental data analytics, techno-economic and life cycle assessment, environmental and safety decision support systems"
+      ]
+    },
     {
       "name": "Texas A&M University at Qatar (TAMUQ)",
       "position": "Professor (Assistant → Associate → Professor); Adjunct Professor (since 2025)",
@@ -88,16 +90,19 @@
       "highlights": []
     }
   ],
-  "volunteer": [{
-    "organization": "Athens 2004",
-    "position": "Volunteer",
-    "url": "",
-    "startDate": "2004-07-01",
-    "endDate": "2004-08-31",
-    "summary": "Spectators services at Thessaloniki",
-    "highlights": []
-  }],
-  "education": [{
+  "volunteer": [
+    {
+      "organization": "Athens 2004",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2004-07-01",
+      "endDate": "2004-08-31",
+      "summary": "Spectators services at Thessaloniki",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
       "institution": "Aristotle University of Thessaloniki",
       "location": "Thessaloniki, Greece",
       "url": "https://www.auth.gr/",
@@ -118,8 +123,10 @@
       "endDate": "2009-02",
       "score": "Excellent",
       "courses": []
-    }],
-  "awards": [{
+    }
+  ],
+  "awards": [
+    {
       "title": "Dean’s Achievement Award",
       "date": "2023",
       "awarder": "Texas A&M University at Qatar",
@@ -172,8 +179,10 @@
       "date": "1997-1998",
       "awarder": "National Foundation of Scholarships, Greece",
       "summary": ""
-    }],
-  "languages": [{
+    }
+  ],
+  "languages": [
+    {
       "language": "Greek",
       "fluency": "Native"
     },
@@ -188,5 +197,6 @@
     {
       "language": "German",
       "fluency": "B1 (Zertifikat Deutsch als Fremdsprache, Goethe Institute, 1997)"
-    }]
+    }
+  ]
 }
