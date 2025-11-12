@@ -11,6 +11,10 @@ nav_order: 2
     <a id="current" href=".#current">
         <h2 class="category">Current</h2>
     </a>
+        <h3 class="category">post-graduate</h3>
+        <ul>
+            <li>Khadija Al-Nabhani at Texas A&M University</li>
+        </ul>
         <h3 class="category">graduate</h3>
         <ul>
             <li>Ola Srour: Doctorate studies at Texas A&M University</li>
@@ -24,7 +28,7 @@ nav_order: 2
             <li>Paraskevi Karathanasi</li>
         </ul>
     <a id="doctorate" href=".#doctorate">
-        <h2 class="category">Doctorate</h2>
+        <h2 class="category">alumni Doctorate</h2>
     </a>
     <ol>
         <li>Thor-Bjørn Ottosen (2016): University of South Denmark, Denmark</li>
@@ -33,12 +37,12 @@ nav_order: 2
         <li>Hala Hassan (2020): University of Surrey, UK</li>
         <li>Ahmed Badreldin (2023): Texas A&M University, US</li>
     </ol>
-        <h2 class="category">post-graduate</h2>
+        <h2 class="category">alumni Post-Graduate</h2>
     <ol>
-        <li>Amer Hakki (2024-2025)</li><li>Tayseir Mohammed (2018-2022)</li><li>Christos Argyropoulos (2016-2019)</li><li>Jawad Sarwar (2013-2017)</li>
+        <li>Dr Amer Hakki (2024-2025)</li><li>Dr Tayseir Mohammed (2018-2022)</li><li>Dr Christos Argyropoulos (2016-2019)</li><li>Dr Jawad Sarwar (2013-2017)</li>
     </ol>
     <a id="TAMU-2012" href=".#TAMU-2012">
-        <h2 class="category">Alumni while at Texas A&M University (Qatar/College Station) 2012-2025</h2>
+        <h2 class="category">alumni while at Texas A&M University (Qatar/College Station) 2012-2025</h2>
     </a>
         <h3 class="category">graduate</h3>
         <ol>
