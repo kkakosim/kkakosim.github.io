@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-books-amp-tech",
+          title: "books &amp; tech",
+          description: "Working on books, book chapters, and technology development requires quite different approach and longer committment, compared to typical journal publications - therefore, I dedicate a different space for their discussion.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/bookstech/";
+          },
         },{id: "nav-projects",
           title: "projects",
           description: "Funded projects that I lead or participated in.",
