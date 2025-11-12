@@ -42,7 +42,36 @@ nav_order: 2
     </a>
         <h3 class="category">graduate</h3>
     <ol>
-        <li>Taha (2014)</li><li>Hassan (2015)</li><li>Elkhalifa (2016)</li><li>Ashraf (2016)</li><li>Abdulraheem (2016)</li><li>Shazeed (2017)</li><li>Soelem (2017)</li><li>Abbas (2017)</li><li>Naser (2018)</li><li>Ali (2018)</li><li>Shaikh (2018)</li><li>Hamza (2022)</li><li>Khalil (2020)</li><li>Imran (2020)</li><li>Srour (2020)</li><li>Adia (2020)</li><li>Fathima (2020)</li><li>Jamaleddin (2021)</li><li>Ali (2021)</li><li>Salih (2021)</li><li>Kubbar (2022)</li><li>Helali (2022)</li><li>Arief H. (2022)</li><li>Makki Sh. (2023)</li><li>Melhim A (2023)</li><li>Shaikh I (2023)</li>
+        <li>Taha (2014): On The Chemical Mixture Methodologies for Estimation of the Integrated Health Effects</li>
+        <li>Hassan (2015): Developing Emission Factors of Fugitive Particulate Matter Emissions for Construction Sites in the Middle East</li>
+        <li>Elkhalifa (2016): Improved Source-Reconstruction Through the Exploitation of Dose-Response Models</li>
+        <li>Chakroun (2016): Computational Modeling for Dense Gas Dispersion for Variable Stability Classes</li>
+        <li>Ashraf (2016): Study of Toxic Gas Ingress in Non-Process Areas</li>
+        <li>Muttar (2016): Solar Assisted and Ammonia Based Coupled DeSOx and DeNOX for Waste Gas Treatment</li>
+        <li>Shazeed (2017): Chemical Plant Analysis of Hydrogen Production Based on the Hybrid-Sulfur Ammonia Water Splitting Cycle</li>
+        <li>Abbas (2017): Electrical Output Evaluation of a Concentrated Photovoltaic System Coupled with a Phase Change Material for Qatar Weather Conditions</li>
+        <li>Naser (2018): Utility System Optimization Under Air Quality Considerations</li>
+        <li>Ali (2018): Investigating the Gas Dispersion from Subsea Gas Releases in Shallow Waters</li>
+        <li>Daoudi (2018): Modeling of Gas Release from an Underground Pipeline</li>
+        <li>Shaikh (2018): A Dosage Based Methodology to Simulate Crowd Evacuations in Toxic Environments</li>
+        <li>Hamza (2022): Developing Particulate Matte Emission Factors for the Vehicle Fleet in Doha</li>
+        <li>Khalil (2020): Novel Concentrated-light Aging Techniques for High-Temperature and Solar-Energy Materials</li>
+        <li>Imran (2020): Modeling and Evaluating the Dispersion of a Underwater Sour Gas Release in Shallow Waters</li>
+        <li>Srour (2020): Modeling of a Gas Release from Underground Pipeline</li>
+        <li>Adia (2020): Modeling and Simulation of Crowd Evacuations in Toxic Environments by Considering the Impact of Dosage</li>
+        <li>Fathima (2020): Reaction Kinetics and Modelling of the Hybrid Sulfur Ammonia Solar Thermochemical Water-Splitting Cycle in Aerosol Phase</li>
+        <li>Jamaleddin (2021): 3D Modelling of CaCO3 Reacting Spherical Particles</li>
+        <li>Ali (2021): Design of a Prototype Receptor Centric Decision Support System for Studying the Impact of Hypothetical Nuclear Accidents & Their Mitigation</li>
+        <li>Imam (2021): Fabrication and Testing of Novel Nanocomposites for Solar Driven Environmental and Energy Applications
+        <li>Salih (2021): Enhancing the Volumetric Effect of Point-Focusing Concentrating Solar Receivers via Partially Reflective Surfaces</li>
+        <li>Kubbar (2023): Design and Modelling of Bench Scale Photocatallytic Reactors for Hydrogen Evolution</li>
+        <li>Helali (2022): Quantification and Comparison of Natural and Accelerated Photodegradation of Alkyd Paints</li>
+        <li>Arief H. (2022): Analysis of Upgrading Existing Building into Temporary Refuge to Shelter Personnel in Event of Major H2S Release</li>
+        <li>Makki Sh. (2024): Scale Up of a Hybrid Photocatalytic Hydrogen Production System</li>
+        <li>Melhim A (2024): Experimental Dataset and Numerical Model Validation of a Lab Scale Solar Volumetric Receiver for High Temperature Industrial Heating</li>
+        <li>Shaikh I (2024): Investigating Intrinsic Calcium Carbide Production, Reaction Kinetics and Phoretic Phenomena for Concentrated Solar Power Applications</li>
+        <li>Issa N (2024): Modeling and Simulation of Outdoor Crowd Evacuation Upon Exposure to Toxic Hydrogen Sulfide Gas</li>
+        <li>Al-Subaiei (2025): Covalent Organic Frameworks (COFs) as High-Performance Photocatalysts for Hydrogen Generation</li>
     </ol>
     <h3 class="category">undergraduate</h3>
     <ul>
