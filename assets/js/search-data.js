@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-books-amp-tech",
-          title: "Books&amp;Tech",
+          title: "Books &amp; Tech",
           description: "",
           section: "Navigation",
           handler: () => {
