@@ -31,11 +31,11 @@ nav_order: 2
         <h2 class="category">alumni Doctorate</h2>
     </a>
     <ol>
-        <li>Thor-Bjørn Ottosen (2016): University of South Denmark, Denmark</li>
-        <li>Jibran Khan (2018): University of Aarhus, Denmark </li>
-        <li>Arsenis Hadjimihailides (2019): Aristotle University of Thessaloniki, Greece</li>
-        <li>Hala Hassan (2020): University of Surrey, UK</li>
-        <li>Ahmed Badreldin (2023): Texas A&M University, US</li>
+        <li>Thor-Bjørn Ottosen (2016): University of South Denmark, Denmark [<a href="https://www.linkedin.com/in/thorbjoernottosen/">Dansk Miljørådgivning A/S</a>]</li>
+        <li>Jibran Khan (2018): University of Aarhus, Denmark [<a href="https://scholar.google.com/citations?user=tUffwOIAAAAJ&hl=en">Assistant Professor, Aarhus University, Denmark </a>]</li>
+        <li>Arsenis Hadjimihailides (2019): Aristotle University of Thessaloniki, Greece [<a href="https://www.linkedin.com/in/arsenis-chatzimichailidis/">Senior Application Engineer at Simtec Software & Services</a>]</li>
+        <li>Hala Hassan (2020): University of Surrey, UK [<a href="https://www.linkedin.com/in/hala-hassan-ph-d-2535bb1b/">Researcher, Galway, Ireland</a>]</li>
+        <li>Ahmed Badreldin (2023): Texas A&M University, US [<a href="https://scholar.google.com/citations?user=NYPLOL4AAAAJ&hl=en">Assistant Professor, The University of Mississippi]</a></li>
     </ol>
         <h2 class="category">alumni Post-Graduate</h2>
     <ol>
