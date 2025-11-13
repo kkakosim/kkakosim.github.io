@@ -14,16 +14,11 @@ profiles:
     content: books/c1.001.risk.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Fires, Explosions, and Toxic Gas Dispersions</p>
-      <p>MJ.Assael & KE. Kakosimos, 2010</p>
   - align: left
     image: book_covers/c1.007.vfPM.jpg
     content: books/c1.007.vfPM.md
     image_circular: false # crops the image to make it circular
     more_info: >
-        <p>Vehicle-induced fugitive particulate matter emissions in arid environments</p>
-        <p>Chapter in Advances in Chemical Pollution, Environmental Management and Protection by ELSEVIER</p>
-        <p>K. Kakosimos, 2025</p>
 ---
 
 > Working on books, book chapters, and technology development requires quite different approach and longer committment, compared to typical journal publications - therefore, I dedicate a different space for their discussion.
