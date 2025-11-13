@@ -6,6 +6,7 @@ description: Evaluation, improvement and guidance for the use of local-scale eme
 importance: 1
 year: 2013
 category: EU
+role: Qater representative
 related_publications: false
 ---
 

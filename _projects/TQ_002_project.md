@@ -6,6 +6,7 @@ description: Study for Process Wastewater Discharge and NOx Emission Environment
 importance: 1
 year: 2013
 category: Qatar
+role: PI
 related_publications: false
 ---
 
