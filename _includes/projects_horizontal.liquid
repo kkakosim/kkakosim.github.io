@@ -14,7 +14,7 @@
               {% assign statuses = 'finished,inprogress' | split: ',' %}
               {% assign status = project.status | downcase | strip %}
               {% if statuses contains status %}
-                <span class="prjstatus.{{ status | downcase }}">{{ status | upcase }}
+                <span class="prj{{ status | downcase }}">{{ status | upcase }}
               {% else %}
                 <span class="card-status">UNCATEGORIZED
               {% endif %}

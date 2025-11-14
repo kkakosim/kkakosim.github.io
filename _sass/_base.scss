@@ -693,17 +693,19 @@ footer.sticky-bottom {
     color: var(--global-text-color-light);
   }
 
-  .prjstatus.finished{
+  .prjfinished{
     font-family: monospace;
     color: #23212d;
     text-transform: uppercase;
     background-color: #62c462;
+    display: inline-block;
   }
-  .prjstatus.inprogress{
+  .prjinprogress{
     font-family: monospace;
     color: #23212d;
     text-transform: uppercase;
     background-color: #f89406;
+    display: inline-block;
   }
 
   h2.category {
