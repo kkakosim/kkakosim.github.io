@@ -14,14 +14,15 @@
               {% assign statuses = 'finished,inprogress' | split: ',' %}
               {% assign status = project.status | downcase | strip %}
               {% if statuses contains status %}
-                <class="prjstatus.{{ status | downcase }}">{{ status | upcase }}
+                <span class="prjstatus.{{ status | downcase }}">{{ status | upcase }}
               {% else %}
-                <class="card-status">UNCATEGORIZED
+                <span class="card-status">UNCATEGORIZED
               {% endif %}
             {% else %}
-              <class="card-status">UNCATEGORIZED
+              <span class="card-status">UNCATEGORIZED
             {% endif %}
-            <class="card-status">{{project.status}}</class>]
+            </span>
+            <span class="card-status">{{project.status}}</span>]
             <p class="card-text">{{ project.description }}<br><b>Role</b>: {{ project.role }}</p>
             <div class="row ml-1 mr-1 p-0">
               {% if project.github %}
