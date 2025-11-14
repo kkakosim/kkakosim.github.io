@@ -9,8 +9,20 @@
         {% endif %}
         <div class="{% if project.img %}col-md-6{% else %}col-md-12{% endif %}">
           <div class="card-body">
-            <h3 class="card-title">{{ project.title }}</h3>
-            <p class="card-text">{{ project.description }}; Role: {{ project.role }} [{{ project.year }}]</p>
+            <h3 class="card-title">{{ project.title }}</h3> [{{ project.year }}; 
+            {% if project.status %}
+              {% assign statuses = 'finished,inprogress' | split: ',' %}
+              {% assign status = project.status | downcase | strip %}
+              {% if statuses contains status %}
+                <class="prjstatus.{{ status | downcase }}">{{ status | upcase }}
+              {% else %}
+                <class="card-status">UNCATEGORIZED
+              {% endif %}
+            {% else %}
+              <class="card-status">UNCATEGORIZED
+            {% endif %}
+            <class="card-status">{{project.status}}</class>]
+            <p class="card-text">{{ project.description }}<br><b>Role</b>: {{ project.role }}</p>
             <div class="row ml-1 mr-1 p-0">
               {% if project.github %}
                 <div class="github-icon">

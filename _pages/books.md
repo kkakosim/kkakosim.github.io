@@ -1,26 +1,13 @@
 ---
-layout: profiles
-title: books & tech
-permalink: /bookstech/
-description: Working on books, book chapters, and technology development requires quite different approach and longer committment, compared to typical journal publications - therefore, I dedicate a different space for their discussion.
-nav: true
-nav_order: 5
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: book_covers/c1.001.risk-en.webp
-    content: books/c1.001.risk.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-  - align: left
-    image: book_covers/c1.007.vfPM.jpg
-    content: books/c1.007.vfPM.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
+layout: book-shelf
+title: bookshelf
+permalink: /books/
+nav: false
+collection: books
 ---
 
-> Working on books, book chapters, and technology development requires quite different approach and longer committment, compared to typical journal publications - therefore, I dedicate a different space for their discussion.
+> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
+>
+> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 
-## Books, chapters, and technology (patents) that I have contributed to:
+## Books that I am reading, have read, or will read

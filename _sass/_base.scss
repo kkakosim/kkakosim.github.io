@@ -688,6 +688,24 @@ footer.sticky-bottom {
     margin-bottom: 10px;
   }
 
+  .card-status {
+    font-size: 0.875rem;
+    color: var(--global-text-color-light);
+  }
+
+  .prjstatus.finished{
+    font-family: monospace;
+    color: #23212d;
+    text-transform: uppercase;
+    background-color: #62c462;
+  }
+  .prjstatus.inprogress{
+    font-family: monospace;
+    color: #23212d;
+    text-transform: uppercase;
+    background-color: #f89406;
+  }
+
   h2.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
