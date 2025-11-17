@@ -2,7 +2,7 @@
 layout: page
 title: Aggies Mixed Reality Academy for Students and Educators - Phase I
 description: Aggies Mixed Reality Academy for Students and Educators - Phase I.
-img: assets/img/p_ED.png
+#img: assets/img/p_ED.png
 importance: 1
 year: 2018
 category: Education

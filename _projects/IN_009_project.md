@@ -2,7 +2,7 @@
 layout: page
 title: Coke Characterization for acetylene production
 description: Coke Characterization for acetylene production via the carbide calcium looping.
-img: assets/img/p_IN.png
+#img: assets/img/p_IN.png
 importance: 2
 year: 2023
 category: Industry

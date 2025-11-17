@@ -2,7 +2,7 @@
 layout: page
 title: Investigating photodegradation of conjugated polymers
 description: Investigating and addressing photodegradation of conjugated polymers for solar applications.
-img: assets/img/p_RE.png
+#img: assets/img/p_RE.png
 importance: 3
 year: 2018
 category: Qatar

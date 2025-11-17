@@ -2,7 +2,7 @@
 layout: page
 title: Assessment of Nuisances by Airborne Emissions from Qatargas
 description: Assessment of Nuisances by Airborne Emissions from Qatargas Operations.
-img: assets/img/p_IN.png
+#img: assets/img/p_IN.png
 importance: 1
 year: 2023
 category: Industry

@@ -2,7 +2,7 @@
 layout: page
 title: Cost Effective Concentrated Photovoltaic System
 description: Cost Effective Concentrated Photovoltaic System with Thermal Energy Storage.
-img: assets/img/p_RE.png
+#img: assets/img/p_RE.png
 importance: 3
 year: 2016
 category: Qatar

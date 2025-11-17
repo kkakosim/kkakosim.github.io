@@ -2,7 +2,7 @@
 layout: page
 title: Microscale To Macroscale Phenomena Of Bioaerosol Transport
 description: Microscale To Macroscale Phenomena Of Bioaerosol Transport In Smart Greenhouses.
-img: assets/img/p_RI.png
+#img: assets/img/p_RI.png
 importance: 3
 year: 2021
 category: Qatar

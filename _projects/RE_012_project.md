@@ -2,7 +2,7 @@
 layout: page
 title: Solar spectrum characterization and impact on human health
 description: Solar spectrum characterization, impact on human health and mitigation using innovative materials.
-img: assets/img/p_RE.png
+#img: assets/img/p_RE.png
 importance: 3
 year: 2018
 category: Qatar

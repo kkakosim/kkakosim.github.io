@@ -2,7 +2,7 @@
 layout: page
 title: Utilization of Qatar Surface Carbonates
 description: Utilization of the Qatar Surface Carbonates for energy storage and CO2 capture.
-img: assets/img/p_RI.png
+#img: assets/img/p_RI.png
 importance: 3
 year: 2015
 category: Qatar

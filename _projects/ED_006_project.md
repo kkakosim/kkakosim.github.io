@@ -2,7 +2,7 @@
 layout: page
 title: Product[X] Challenge
 description: Product[X] Challenge.
-img: assets/img/p_ED.png
+#img: assets/img/p_ED.png
 importance: 3
 year: 2020
 category: Education

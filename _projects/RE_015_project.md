@@ -2,7 +2,7 @@
 layout: page
 title: Indoor Air Quality and Building Ingress Control Technologies
 description: Indoor Air Quality and Building Ingress Control Technologies.
-img: assets/img/p_RE.png
+#img: assets/img/p_RE.png
 importance: 3
 year: 2020
 category: Qatar

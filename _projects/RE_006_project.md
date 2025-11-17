@@ -2,7 +2,7 @@
 layout: page
 title: Advanced emergency preparedness and response tools
 description: Advanced emergency preparedness and response tools for airborne hazardous materials in urban environments.
-img: assets/img/p_RE.png
+#img: assets/img/p_RE.png
 importance: 3
 year: 2015
 category: Qatar

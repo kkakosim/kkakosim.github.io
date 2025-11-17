@@ -2,7 +2,7 @@
 layout: page
 title: A Unique High Flux Solar Simulator
 description: A Unique High Flux Solar Simulator for Innovative Research in Energy, Environment and Materials.
-img: assets/img/p_RI.png
+#img: assets/img/p_RI.png
 importance: 3
 year: 2015
 category: Qatar

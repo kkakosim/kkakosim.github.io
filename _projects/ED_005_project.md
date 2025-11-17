@@ -2,7 +2,7 @@
 layout: page
 title: Energy education of the Future Forum
 description: Energy education of the Future Forum.
-img: assets/img/p_ED.png
+#img: assets/img/p_ED.png
 importance: 3
 year: 2021
 category: Education

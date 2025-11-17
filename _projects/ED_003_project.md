@@ -2,7 +2,7 @@
 layout: page
 title: Multidisciplinary Projects in Engineering Education
 description: Multidisciplinary Projects in Engineering Education.
-img: assets/img/p_ED.png
+#img: assets/img/p_ED.png
 importance: 3
 year: 2018
 category: Education

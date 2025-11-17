@@ -2,7 +2,7 @@
 layout: page
 title: High Temperature Industrial process heat from concentrated solar power
 description: High Temperature Industrial process heat from concentrated solar power.
-img: assets/img/p_IN.png
+#img: assets/img/p_IN.png
 importance: 3
 year: 2022
 category: Industry

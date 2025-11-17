@@ -2,7 +2,7 @@
 layout: page
 title: Tailored prevention of coronaviruses transmission via aerodynamic modelling
 description: Tailored prevention of coronaviruses' transmission via aerodynamic, behavioural, and network modelling in indoor and outdoor spaces.
-img: assets/img/p_RI.png
+#img: assets/img/p_RI.png
 importance: 3
 year: 2020
 category: Qatar

@@ -2,7 +2,7 @@
 layout: page
 title: Design of Novel Catalysts and Processes for CO2 Conversion
 description: Design of Novel Catalysts and Processes for CO2 Conversion from Micro- to Macroscale.
-img: assets/img/p_RE.png
+#img: assets/img/p_RE.png
 importance: 3
 year: 2015
 category: Qatar

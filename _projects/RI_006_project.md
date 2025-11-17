@@ -2,7 +2,7 @@
 layout: page
 title: Solar Energy Driven Hydrogen Generation from Seawater
 description: Solar Energy Driven Hydrogen Generation from Seawater.
-img: assets/img/p_RI.png
+#img: assets/img/p_RI.png
 importance: 3
 year: 2019
 category: Qatar

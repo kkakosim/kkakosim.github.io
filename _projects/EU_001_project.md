@@ -2,7 +2,7 @@
 layout: page
 title: EU COST Action ES1006 - Emergency prediction tools
 description: Evaluation, improvement and guidance for the use of local-scale emergency prediction and response tools for airborne hazards in built environments.
-img: assets/img/p_RE.png
+#img: assets/img/p_RE.png
 importance: 3
 year: 2013
 category: EU
