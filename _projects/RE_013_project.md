@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Hybrid Solar Powered High Performance Polymeric Materials
-description: Hybrid Solar Powered High Performance Polymeric Materials for Photocatalytic Hydrogen Generation from Seawater and Industrial Effluent Water Streams in Qatar.
+title: Extensive Socio-Health Risk of Airborne Releases
+description: Extensive Socio-Health Risk of High-Probability & 'Low'-Severity Chemical and Radiological Airborne Releases.
 img: assets/img/p_RE.png
 importance: 1
 year: 2020
 category: Qatar
-role: co-PI
+role: mentor
 related_publications: false
 status: finished
 ---
 
-Hybrid Solar Powered High Performance Polymeric Materials for Photocatalytic Hydrogen Generation from Seawater and Industrial Effluent Water Streams in Qatar
+Extensive Socio-Health Risk of High-Probability & 'Low'-Severity Chemical and Radiological Airborne Releases
 
-**Funding:** Qatar National Research Fund UREP  
+**Funding:** Qatar National Research Fund GSRA  
 **Year:** 2020  
-**Duration:** 1 year  
-**Budget:** $30,000 [own budget: $15,000]  
-**Role:** LPI: M.Al-Hashimi, co-PI: KE. Kakosimos, and 6 undergraduate students  
-**Status:** In Progress
+**Duration:** 2 years  
+**Budget:** $96,000  
+**Role:** student Ali Arshad, mentor: KE. Kakosimos  
+**Status:** Finished

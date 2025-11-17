@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Assessment of Nuisances by Airborne Emissions from Qatargas
-description: Assessment of Nuisances by Airborne Emissions from Qatargas Operations.
+title: High Temperature Industrial process heat from concentrated solar power
+description: High Temperature Industrial process heat from concentrated solar power.
 img: assets/img/p_IN.png
 importance: 1
-year: 2023
+year: 2022
 category: Industry
-role: PI
+role: mentor
 related_publications: false
-status: inprogress
+status: finished
 ---
 
-Assessment of Nuisances by Airborne Emissions from Qatargas Operations
+High Temperature Industrial process heat from concentrated solar power
 
-**Funding:** Qatargas  
-**Year:** 2023  
+**Funding:** ExxonMobil Fellowship  
+**Year:** 2022  
 **Duration:** 2 years  
-**Budget:** $400,000 (50% cofunding by TAMUQ)  
-**Role:** single PI: KE. Kakosimos  
-**Status:** In Progress
+**Budget:** $117,000  
+**Role:** student Aysha Melhim, mentor: KE. Kakosimos  
+**Status:** Finished

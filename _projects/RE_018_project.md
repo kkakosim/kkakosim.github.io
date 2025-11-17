@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Renewable Energy-Powered Eco-Innovations in Essential Oil Extraction
-description: Renewable Energy-Powered Eco-Innovations in Essential Oil Extraction and Waste Valorization.
+title: Study of the thermo-photophoretic phenomena under concentrated light
+description: Study of the thermo-photophoretic phenomena under concentrated light.
 img: assets/img/p_RE.png
 importance: 1
-year: 2024
+year: 2022
 category: Qatar
-role: LPI
+role: mentor
 related_publications: false
 status: finished
 ---
 
-Renewable Energy-Powered Eco-Innovations in Essential Oil Extraction and Waste Valorization
+Study of the thermo-photophoretic phenomena under concentrated light
 
-**Funding:** Qatar National Research Fund UREP  
-**Year:** 2024  
-**Duration:** 1 year  
-**Budget:** $30,000 [own budget: $15,000]  
-**Role:** LPI: KE. Kakosimos co-PI: M.Al-Hashimi, D.Al-Mohannadi, and 6 undergraduate students  
-**Status:** In Progress
+**Funding:** Qatar National Research Fund GSRA  
+**Year:** 2022  
+**Duration:** 2 years  
+**Budget:** $117,000  
+**Role:** student Insha Shaikh, mentor: KE. Kakosimos  
+**Status:** Finished

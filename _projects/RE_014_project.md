@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Indoor Air Quality and Building Ingress Control Technologies
-description: Indoor Air Quality and Building Ingress Control Technologies.
+title: Hybrid Solar Powered High Performance Polymeric Materials
+description: Hybrid Solar Powered High Performance Polymeric Materials for Photocatalytic Hydrogen Generation from Seawater and Industrial Effluent Water Streams in Qatar.
 img: assets/img/p_RE.png
 importance: 1
 year: 2020
 category: Qatar
-role: mentor
+role: co-PI
 related_publications: false
 status: finished
 ---
 
-Indoor Air Quality and Building Ingress Control Technologies
+Hybrid Solar Powered High Performance Polymeric Materials for Photocatalytic Hydrogen Generation from Seawater and Industrial Effluent Water Streams in Qatar
 
-**Funding:** Qatar National Research Fund HSREP  
+**Funding:** Qatar National Research Fund UREP  
 **Year:** 2020  
-**Duration:** 9 months  
-**Budget:** $5,000  
-**Role:** mentor: KE. Kakosimos and two students  
-**Status:** Finished
+**Duration:** 1 year  
+**Budget:** $30,000 [own budget: $15,000]  
+**Role:** LPI: M.Al-Hashimi, co-PI: KE. Kakosimos, and 6 undergraduate students  
+**Status:** In Progress

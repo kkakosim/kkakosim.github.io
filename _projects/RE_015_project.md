@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Concentrating light technologies for continuous synthesis
-description: Concentrating light technologies for the continuous synthesis of particle and deposition based functional materials with in-situ high temperature heating.
+title: Indoor Air Quality and Building Ingress Control Technologies
+description: Indoor Air Quality and Building Ingress Control Technologies.
 img: assets/img/p_RE.png
 importance: 1
 year: 2020
 category: Qatar
-role: LPI
+role: mentor
 related_publications: false
 status: finished
 ---
 
-Concentrating light technologies for the continuous synthesis of particle and deposition based functional materials with in-situ high temperature heating
+Indoor Air Quality and Building Ingress Control Technologies
 
-**Funding:** Qatar National Research Fund NPRP12S  
+**Funding:** Qatar National Research Fund HSREP  
 **Year:** 2020  
-**Duration:** 2 years  
-**Budget:** $398,000  
-**Role:** LPI: KE. Kakosimos  
+**Duration:** 9 months  
+**Budget:** $5,000  
+**Role:** mentor: KE. Kakosimos and two students  
 **Status:** Finished

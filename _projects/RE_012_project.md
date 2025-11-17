@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Extensive Socio-Health Risk of Airborne Releases
-description: Extensive Socio-Health Risk of High-Probability & 'Low'-Severity Chemical and Radiological Airborne Releases.
+title: Solar spectrum characterization and impact on human health
+description: Solar spectrum characterization, impact on human health and mitigation using innovative materials.
 img: assets/img/p_RE.png
 importance: 1
-year: 2020
+year: 2018
 category: Qatar
-role: mentor
+role: LPI
 related_publications: false
 status: finished
 ---
 
-Extensive Socio-Health Risk of High-Probability & 'Low'-Severity Chemical and Radiological Airborne Releases
+Solar spectrum characterization, impact on human health and mitigation using innovative materials
 
-**Funding:** Qatar National Research Fund GSRA  
-**Year:** 2020  
-**Duration:** 2 years  
-**Budget:** $96,000  
-**Role:** student Ali Arshad, mentor: KE. Kakosimos  
-**Status:** Finished
+**Funding:** Qatar National Research Fund UREP23-104-2-036  
+**Year:** 2018  
+**Duration:** 1 year  
+**Budget:** $30,000  
+**Role:** LPI: KE. Kakosimos co-PI: M.Al-Hashimi, E.Fthenou (Qatar BioBank), and 6 undergraduate students  
+**Status:** To Start

@@ -1,21 +1,20 @@
 ---
 layout: page
-title: Coke Characterization for acetylene production
-description: Coke Characterization for acetylene production via the carbide calcium looping.
+title: Improve Evacuation Activities During H2S Toxic Gas Release
+description: Improve Evacuation Activities & Understanding During an H2S Toxic Gas Release Event.
 img: assets/img/p_IN.png
 importance: 1
-year: 2023
+year: 2017
 category: Industry
-role: PI
+role: LPI
 related_publications: false
 status: finished
 ---
 
-Coke Characterization for acetylene production via the carbide calcium looping
+Improve Evacuation Activities & Understanding During an H2S Toxic Gas Release Event
 
-**Funding:** Qatar Shell Research & Technology Center  
-**Year:** 2023  
-**Duration:** 1 year  
-**Budget:** $200,000  
-**Role:** single PI: KE. Kakosimos  
-**Status:** In Progress
+**Funding:** Funded by the Industrial Consortium of the MKOPSC-Q  
+**Year:** 2017-2020  
+**Budget:** $324,000  
+**Role:** Grad. Stud.: Shaikh Nawayd-Neil Adia, LPI: K.E. Kakosimos  
+**Status:** Finished
