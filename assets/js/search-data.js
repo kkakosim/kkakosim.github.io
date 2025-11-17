@@ -578,9 +578,9 @@ ninja.data = [{
           description: "Concentrating light technologies for the continuous synthesis of particle and deposition based functional materials with in-situ high temperature heating.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RE_015_project/";
-            },},{id: "projects-continuous-and-scalable-hybrid-photo-electro-chemical-production",
-          title: 'Continuous and Scalable Hybrid Photo-Electro Chemical Production',
-          description: "Continuous and Scalable Hybrid Photo-Electro Chemical Production of Renewable Hydrogen from Non-Potable Water Sources.",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RE_016_project/";
             },},{id: "projects-study-of-the-thermo-photophoretic-phenomena-under-concentrated-light",
