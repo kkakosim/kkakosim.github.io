@@ -65,7 +65,7 @@ Aggies Mixed Reality Academy for Students and Educators - Phase I
         {% include video.liquid path="https://www.youtube.com/embed/C_DhY3x0LHs" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/fUjsz286bTs class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/fUjsz286bTs" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -82,6 +82,6 @@ Aggies Mixed Reality Academy for Students and Educators - Phase I
         {% include video.liquid path="https://www.youtube.com/embed/pjskp4inJuU" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/cmsLVHsj9rE" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
