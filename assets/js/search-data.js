@@ -632,17 +632,17 @@ ninja.data = [{
           title: 'Solar Energy Driven Hydrogen Generation from Seawater',
           description: "Solar Energy Driven Hydrogen Generation from Seawater.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RI_005b_project/";
+              window.location.href = "/projects/RI_006_project/";
             },},{id: "projects-microscale-to-macroscale-phenomena-of-bioaerosol-transport",
           title: 'Microscale To Macroscale Phenomena Of Bioaerosol Transport',
           description: "Microscale To Macroscale Phenomena Of Bioaerosol Transport In Smart Greenhouses.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RI_006_project/";
+              window.location.href = "/projects/RI_007_project/";
             },},{id: "projects-concentrating-photo-electro-catalytic-reactors",
           title: 'Concentrating Photo Electro Catalytic Reactors',
           description: "Concentrating Photo Electro Catalytic Reactors for Solar Chemicals&#39; Synthesis.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RI_006b_project/";
+              window.location.href = "/projects/RI_008_project/";
             },},{
         id: 'social-email',
         title: 'email',
