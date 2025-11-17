@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Funded projects that I lead or participated in.
+description: Funded projects that I lead or participated in. Look for the Highlights!
 nav: true
 nav_order: 6
 display_categories: [EU, Industry, Qatar, Education]
