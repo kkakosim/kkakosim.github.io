@@ -3,7 +3,7 @@ layout: page
 title: Solar Hybrid Hydrogen Production Cycle
 description: Solar Hybrid Hydrogen Production Cycle with In-situ Thermal Energy Storage.
 img: assets/img/p_RE.png
-importance: 1
+importance: 3
 year: 2014
 category: Qatar
 role: co-LPI

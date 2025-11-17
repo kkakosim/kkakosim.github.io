@@ -3,7 +3,7 @@ layout: page
 title: Novel Concentrated-Light Aging Techniques
 description: Novel Concentrated-Light Aging Techniques for High-Temperature and Solar-Energy Materials.
 img: assets/img/p_RI.png
-importance: 1
+importance: 3
 year: 2018
 category: Qatar
 role: LPI

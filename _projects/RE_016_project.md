@@ -3,7 +3,7 @@ layout: page
 title: Concentrating light technologies for continuous synthesis
 description: Concentrating light technologies for the continuous synthesis of particle and deposition based functional materials with in-situ high temperature heating.
 img: assets/img/p_RE.png
-importance: 1
+importance: 2
 year: 2020
 category: Qatar
 role: LPI

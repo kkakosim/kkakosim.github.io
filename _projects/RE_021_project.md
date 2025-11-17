@@ -3,7 +3,7 @@ layout: page
 title: Resilience Assessment and Enhancement for Food Supply Chains
 description: Resilience Assessment and Enhancement for Food Supply Chains in the Face of Extreme Airborne Events.
 img: assets/img/p_RE.png
-importance: 1
+importance: 2
 year: 2024
 category: Qatar
 role: LPI

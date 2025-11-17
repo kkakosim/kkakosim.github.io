@@ -1,21 +1,20 @@
 ---
 layout: page
-title: Microscale To Macroscale Phenomena Of Bioaerosol Transport
-description: Microscale To Macroscale Phenomena Of Bioaerosol Transport In Smart Greenhouses.
+title: Solar Energy Driven Hydrogen Generation from Seawater
+description: Solar Energy Driven Hydrogen Generation from Seawater.
 img: assets/img/p_RI.png
-importance: 1
-year: 2021
+importance: 3
+year: 2019
 category: Qatar
-role: PI
+role: co-PI
 related_publications: false
 status: finished
 ---
 
-Microscale To Macroscale Phenomena Of Bioaerosol Transport In Smart Greenhouses
+Solar Energy Driven Hydrogen Generation from Seawater
 
-**Funding:** TAMU-T3  
-**Year:** 2021  
-**Duration:** 2 years  
-**Budget:** $30,000  
-**Role:** LPI: M.King, PIs: KE. Kakosimos  
+**Funding:** TAMUQ Seed Responsive Research Grants, competitive  
+**Year:** 2019-2020  
+**Budget:** $280,000  
+**Role:** LPI: M.Al-Hashimi (CHEM) co-PI: K.Kakosimos, A.Abdel-Wahab (CHEN), A.Rahman (PETE), I.Hassan (MEEN)  
 **Status:** Finished

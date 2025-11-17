@@ -3,7 +3,7 @@ layout: page
 title: Emission free co-production of carbon nanotubes and hydrogen
 description: Emission free co-production of carbon nanotubes and hydrogen via concentrated solar energy.
 img: assets/img/p_RE.png
-importance: 1
+importance: 3
 year: 2014
 category: Qatar
 role: co-LPI

@@ -3,7 +3,7 @@ layout: page
 title: Advanced Design Methods for Gas Separation Membranes
 description: Advanced Design Methods for Gas Separation Membranes.
 img: assets/img/p_RI.png
-importance: 1
+importance: 3
 year: 2018
 category: Qatar
 role: PI

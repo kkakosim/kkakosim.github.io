@@ -3,7 +3,7 @@ layout: page
 title: Tailored prevention of coronaviruses transmission
 description: Tailored prevention of coronaviruses' transmission via aerodynamic, behavioural, and network modelling in indoor and outdoor spaces.
 img: assets/img/p_RE.png
-importance: 1
+importance: 3
 year: 2021
 category: Qatar
 role: LPI

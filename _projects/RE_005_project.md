@@ -3,7 +3,7 @@ layout: page
 title: Emission models for fugitive particulate matter
 description: Emission models for fugitive particulate matter towards an online emission inventory for the Middle East Area.
 img: assets/img/p_RE.png
-importance: 1
+importance: 3
 year: 2015
 category: Qatar
 role: LPI

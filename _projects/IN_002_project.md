@@ -3,7 +3,7 @@ layout: page
 title: Study the infiltration of toxic gases in non-process areas
 description: Study the infiltration of toxic gases in non-process areas.
 img: assets/img/p_IN.png
-importance: 1
+importance: 3
 year: 2014
 category: Industry
 role: LPI

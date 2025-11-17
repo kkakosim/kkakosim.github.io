@@ -3,7 +3,7 @@ layout: page
 title: Renewable Energy-Powered Eco-Innovations in Essential Oil Extraction
 description: Renewable Energy-Powered Eco-Innovations in Essential Oil Extraction and Waste Valorization.
 img: assets/img/p_RE.png
-importance: 1
+importance: 3
 year: 2024
 category: Qatar
 role: LPI

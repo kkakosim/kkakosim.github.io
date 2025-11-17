@@ -3,7 +3,7 @@ layout: page
 title: Improve Evacuation Activities During H2S Toxic Gas Release
 description: Improve Evacuation Activities & Understanding During an H2S Toxic Gas Release Event.
 img: assets/img/p_IN.png
-importance: 1
+importance: 3
 year: 2017
 category: Industry
 role: LPI

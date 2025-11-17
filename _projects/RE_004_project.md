@@ -3,7 +3,7 @@ layout: page
 title: Evaluate and improve airborne particulate matter passive samplers
 description: Evaluate and improve airborne particulate matter passive samplers for personal exposure monitoring.
 img: assets/img/p_RE.png
-importance: 1
+importance: 3
 year: 2014
 category: Qatar
 role: LPI

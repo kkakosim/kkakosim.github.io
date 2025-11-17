@@ -3,7 +3,7 @@ layout: page
 title: Hybrid Solar Powered High Performance Polymeric Materials
 description: Hybrid Solar Powered High Performance Polymeric Materials for Photocatalytic Hydrogen Generation from Seawater and Industrial Effluent Water Streams in Qatar.
 img: assets/img/p_RE.png
-importance: 1
+importance: 3
 year: 2020
 category: Qatar
 role: co-PI

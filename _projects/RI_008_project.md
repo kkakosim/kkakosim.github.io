@@ -3,7 +3,7 @@ layout: page
 title: Concentrating Photo Electro Catalytic Reactors
 description: Concentrating Photo Electro Catalytic Reactors for Solar Chemicals' Synthesis.
 img: assets/img/p_RI.png
-importance: 1
+importance: 3
 year: 2020
 category: Qatar
 role: LPI

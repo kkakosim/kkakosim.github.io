@@ -3,7 +3,7 @@ layout: page
 title: Study for Process Wastewater Discharge and NOx Emission
 description: Study for Process Wastewater Discharge and NOx Emission Environmental Costs.
 img: assets/img/p_IN.png
-importance: 1
+importance: 3
 year: 2013
 category: Industry
 role: PI

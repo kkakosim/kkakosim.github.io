@@ -3,7 +3,7 @@ layout: page
 title: Study of the thermo-photophoretic phenomena under concentrated light
 description: Study of the thermo-photophoretic phenomena under concentrated light.
 img: assets/img/p_RE.png
-importance: 1
+importance: 3
 year: 2022
 category: Qatar
 role: mentor

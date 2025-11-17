@@ -3,7 +3,7 @@ layout: page
 title: Redefine the Education Experience via Augmented Reality Tools EduART
 description: Redefine the Education Experience via Augmented Reality Tools EduART.
 img: assets/img/p_ED.png
-importance: 1
+importance: 3
 year: 2017
 category: Education
 role: LPI
