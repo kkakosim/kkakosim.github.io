@@ -452,7 +452,7 @@ ninja.data = [{
           title: 'Product[X] Challenge',
           description: "Product[X] Challenge.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/ED_005b_project/";
+              window.location.href = "/projects/ED_006_project/";
             },},{id: "projects-eu-cost-action-es1006-emergency-prediction-tools",
           title: 'EU COST Action ES1006 - Emergency prediction tools',
           description: "Evaluation, improvement and guidance for the use of local-scale emergency prediction and response tools for airborne hazards in built environments.",
@@ -482,27 +482,27 @@ ninja.data = [{
           title: 'Air pollution and air quality management in Qatar',
           description: "Assessment of the current state of air pollution and air quality management efforts with a view to informing the activities under National Development Strategy 2.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/IN_004b_project/";
+              window.location.href = "/projects/IN_005_project/";
             },},{id: "projects-high-temperature-industrial-process-heat-from-concentrated-solar-power",
           title: 'High Temperature Industrial process heat from concentrated solar power',
           description: "High Temperature Industrial process heat from concentrated solar power.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/IN_005_project/";
+              window.location.href = "/projects/IN_006_project/";
             },},{id: "projects-improve-evacuation-activities-during-h2s-toxic-gas-release",
           title: 'Improve Evacuation Activities During H2S Toxic Gas Release',
           description: "Improve Evacuation Activities &amp; Understanding During an H2S Toxic Gas Release Event.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/IN_005b_project/";
+              window.location.href = "/projects/IN_007_project/";
             },},{id: "projects-assessment-of-nuisances-by-airborne-emissions-from-qatargas",
           title: 'Assessment of Nuisances by Airborne Emissions from Qatargas',
           description: "Assessment of Nuisances by Airborne Emissions from Qatargas Operations.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/IN_006_project/";
+              window.location.href = "/projects/IN_008_project/";
             },},{id: "projects-coke-characterization-for-acetylene-production",
           title: 'Coke Characterization for acetylene production',
           description: "Coke Characterization for acetylene production via the carbide calcium looping.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/IN_007_project/";
+              window.location.href = "/projects/IN_009_project/";
             },},{id: "projects-emission-free-co-production-of-carbon-nanotubes-and-hydrogen",
           title: 'Emission free co-production of carbon nanotubes and hydrogen',
           description: "Emission free co-production of carbon nanotubes and hydrogen via concentrated solar energy.",
@@ -557,52 +557,52 @@ ninja.data = [{
           title: 'Solar spectrum characterization and impact on human health',
           description: "Solar spectrum characterization, impact on human health and mitigation using innovative materials.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RE_011b_project/";
+              window.location.href = "/projects/RE_012_project/";
             },},{id: "projects-extensive-socio-health-risk-of-airborne-releases",
           title: 'Extensive Socio-Health Risk of Airborne Releases',
           description: "Extensive Socio-Health Risk of High-Probability &amp; &#39;Low&#39;-Severity Chemical and Radiological Airborne Releases.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RE_012_project/";
+              window.location.href = "/projects/RE_013_project/";
             },},{id: "projects-hybrid-solar-powered-high-performance-polymeric-materials",
           title: 'Hybrid Solar Powered High Performance Polymeric Materials',
           description: "Hybrid Solar Powered High Performance Polymeric Materials for Photocatalytic Hydrogen Generation from Seawater and Industrial Effluent Water Streams in Qatar.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RE_013_project/";
+              window.location.href = "/projects/RE_014_project/";
             },},{id: "projects-indoor-air-quality-and-building-ingress-control-technologies",
           title: 'Indoor Air Quality and Building Ingress Control Technologies',
           description: "Indoor Air Quality and Building Ingress Control Technologies.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RE_014_project/";
+              window.location.href = "/projects/RE_015_project/";
             },},{id: "projects-concentrating-light-technologies-for-continuous-synthesis",
           title: 'Concentrating light technologies for continuous synthesis',
           description: "Concentrating light technologies for the continuous synthesis of particle and deposition based functional materials with in-situ high temperature heating.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RE_015_project/";
+              window.location.href = "/projects/RE_016_project/";
             },},{id: "projects-",
           title: '',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RE_016_project/";
+              window.location.href = "/projects/RE_017_project/";
             },},{id: "projects-study-of-the-thermo-photophoretic-phenomena-under-concentrated-light",
           title: 'Study of the thermo-photophoretic phenomena under concentrated light',
           description: "Study of the thermo-photophoretic phenomena under concentrated light.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RE_017_project/";
+              window.location.href = "/projects/RE_018_project/";
             },},{id: "projects-tailored-prevention-of-coronaviruses-transmission",
           title: 'Tailored prevention of coronaviruses transmission',
           description: "Tailored prevention of coronaviruses&#39; transmission via aerodynamic, behavioural, and network modelling in indoor and outdoor spaces.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RE_017b_project/";
+              window.location.href = "/projects/RE_019_project/";
             },},{id: "projects-renewable-energy-powered-eco-innovations-in-essential-oil-extraction",
           title: 'Renewable Energy-Powered Eco-Innovations in Essential Oil Extraction',
           description: "Renewable Energy-Powered Eco-Innovations in Essential Oil Extraction and Waste Valorization.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RE_018_project/";
+              window.location.href = "/projects/RE_020_project/";
             },},{id: "projects-resilience-assessment-and-enhancement-for-food-supply-chains",
           title: 'Resilience Assessment and Enhancement for Food Supply Chains',
           description: "Resilience Assessment and Enhancement for Food Supply Chains in the Face of Extreme Airborne Events.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RE_019_project/";
+              window.location.href = "/projects/RE_021_project/";
             },},{id: "projects-a-unique-high-flux-solar-simulator",
           title: 'A Unique High Flux Solar Simulator',
           description: "A Unique High Flux Solar Simulator for Innovative Research in Energy, Environment and Materials.",
@@ -643,11 +643,6 @@ ninja.data = [{
           description: "Concentrating Photo Electro Catalytic Reactors for Solar Chemicals&#39; Synthesis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RI_006b_project/";
-            },},{id: "projects-qapco",
-          title: 'QAPCO',
-          description: "Study for Process Wastewater Discharge and NOx Emission Environmental Costs",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/TQ_002_project/";
             },},{
         id: 'social-email',
         title: 'email',
