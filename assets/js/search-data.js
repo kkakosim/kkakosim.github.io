@@ -423,11 +423,226 @@ ninja.data = [{
           section: "News",},{id: "news-from-lab-to-market-at-walk-auth-www",
           title: 'From Lab to Market at WALK_AUTH [www]',
           description: "",
-          section: "News",},{id: "projects-cost-es1006lpi",
-          title: 'COST ES1006LPI',
-          description: "Evaluation, improvement and guidance for the use of local-scale emergency prediction and response tools for airborne hazards in built environments",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ED_001_project/";
+            },},{id: "projects-redefine-the-education-experience-via-augmented-reality-tools-eduart",
+          title: 'Redefine the Education Experience via Augmented Reality Tools EduART',
+          description: "Redefine the Education Experience via Augmented Reality Tools EduART.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ED_002_project/";
+            },},{id: "projects-multidisciplinary-projects-in-engineering-education",
+          title: 'Multidisciplinary Projects in Engineering Education',
+          description: "Multidisciplinary Projects in Engineering Education.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ED_003_project/";
+            },},{id: "projects-aggies-mixed-reality-academy-for-students-and-educators-phase-i",
+          title: 'Aggies Mixed Reality Academy for Students and Educators - Phase I',
+          description: "Aggies Mixed Reality Academy for Students and Educators - Phase I.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ED_004_project/";
+            },},{id: "projects-energy-education-of-the-future-forum",
+          title: 'Energy education of the Future Forum',
+          description: "Energy education of the Future Forum.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ED_005_project/";
+            },},{id: "projects-product-x-challenge",
+          title: 'Product[X] Challenge',
+          description: "Product[X] Challenge.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ED_005b_project/";
+            },},{id: "projects-eu-cost-action-es1006-emergency-prediction-tools",
+          title: 'EU COST Action ES1006 - Emergency prediction tools',
+          description: "Evaluation, improvement and guidance for the use of local-scale emergency prediction and response tools for airborne hazards in built environments.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/EU_001_project/";
+            },},{id: "projects-study-for-process-wastewater-discharge-and-nox-emission",
+          title: 'Study for Process Wastewater Discharge and NOx Emission',
+          description: "Study for Process Wastewater Discharge and NOx Emission Environmental Costs.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IN_001_project/";
+            },},{id: "projects-study-the-infiltration-of-toxic-gases-in-non-process-areas",
+          title: 'Study the infiltration of toxic gases in non-process areas',
+          description: "Study the infiltration of toxic gases in non-process areas.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IN_002_project/";
+            },},{id: "projects-airborne-particulate-matter-pollution-and-ebc-biomarkers",
+          title: 'Airborne Particulate Matter Pollution and EBC Biomarkers',
+          description: "Provision of Consultancy Services to Study Associations between Airborne Particulate Matter (PM2.5 &amp; PM10) Pollution and Exhaled Breath Condensate (EBC) Biomarkers at Work Places.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IN_003_project/";
+            },},{id: "projects-underwater-hydrocarbon-release-consequence-modelling",
+          title: 'Underwater Hydrocarbon Release Consequence Modelling',
+          description: "Underwater Hydrocarbon Release Consequence Modelling.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IN_004_project/";
+            },},{id: "projects-air-pollution-and-air-quality-management-in-qatar",
+          title: 'Air pollution and air quality management in Qatar',
+          description: "Assessment of the current state of air pollution and air quality management efforts with a view to informing the activities under National Development Strategy 2.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IN_004b_project/";
+            },},{id: "projects-high-temperature-industrial-process-heat-from-concentrated-solar-power",
+          title: 'High Temperature Industrial process heat from concentrated solar power',
+          description: "High Temperature Industrial process heat from concentrated solar power.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IN_005_project/";
+            },},{id: "projects-improve-evacuation-activities-during-h2s-toxic-gas-release",
+          title: 'Improve Evacuation Activities During H2S Toxic Gas Release',
+          description: "Improve Evacuation Activities &amp; Understanding During an H2S Toxic Gas Release Event.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IN_005b_project/";
+            },},{id: "projects-assessment-of-nuisances-by-airborne-emissions-from-qatargas",
+          title: 'Assessment of Nuisances by Airborne Emissions from Qatargas',
+          description: "Assessment of Nuisances by Airborne Emissions from Qatargas Operations.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IN_006_project/";
+            },},{id: "projects-coke-characterization-for-acetylene-production",
+          title: 'Coke Characterization for acetylene production',
+          description: "Coke Characterization for acetylene production via the carbide calcium looping.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IN_007_project/";
+            },},{id: "projects-emission-free-co-production-of-carbon-nanotubes-and-hydrogen",
+          title: 'Emission free co-production of carbon nanotubes and hydrogen',
+          description: "Emission free co-production of carbon nanotubes and hydrogen via concentrated solar energy.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_002_project/";
+            },},{id: "projects-solar-hybrid-hydrogen-production-cycle",
+          title: 'Solar Hybrid Hydrogen Production Cycle',
+          description: "Solar Hybrid Hydrogen Production Cycle with In-situ Thermal Energy Storage.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_003_project/";
+            },},{id: "projects-evaluate-and-improve-airborne-particulate-matter-passive-samplers",
+          title: 'Evaluate and improve airborne particulate matter passive samplers',
+          description: "Evaluate and improve airborne particulate matter passive samplers for personal exposure monitoring.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_004_project/";
+            },},{id: "projects-emission-models-for-fugitive-particulate-matter",
+          title: 'Emission models for fugitive particulate matter',
+          description: "Emission models for fugitive particulate matter towards an online emission inventory for the Middle East Area.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_005_project/";
+            },},{id: "projects-advanced-emergency-preparedness-and-response-tools",
+          title: 'Advanced emergency preparedness and response tools',
+          description: "Advanced emergency preparedness and response tools for airborne hazardous materials in urban environments.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_006_project/";
+            },},{id: "projects-design-of-novel-catalysts-and-processes-for-co2-conversion",
+          title: 'Design of Novel Catalysts and Processes for CO2 Conversion',
+          description: "Design of Novel Catalysts and Processes for CO2 Conversion from Micro- to Macroscale.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_007_project/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_008_project/";
+            },},{id: "projects-cost-effective-concentrated-photovoltaic-system",
+          title: 'Cost Effective Concentrated Photovoltaic System',
+          description: "Cost Effective Concentrated Photovoltaic System with Thermal Energy Storage.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_009_project/";
+            },},{id: "projects-investigating-photodegradation-of-conjugated-polymers",
+          title: 'Investigating photodegradation of conjugated polymers',
+          description: "Investigating and addressing photodegradation of conjugated polymers for solar applications.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_010_project/";
+            },},{id: "projects-air-pollution-cleanup-based-water-energy-food-nexus-technology",
+          title: 'Air Pollution Cleanup-Based Water-Energy-Food Nexus Technology',
+          description: "Air Pollution Cleanup-Based Water-Energy-Food Nexus Technology.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_011_project/";
+            },},{id: "projects-solar-spectrum-characterization-and-impact-on-human-health",
+          title: 'Solar spectrum characterization and impact on human health',
+          description: "Solar spectrum characterization, impact on human health and mitigation using innovative materials.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_011b_project/";
+            },},{id: "projects-extensive-socio-health-risk-of-airborne-releases",
+          title: 'Extensive Socio-Health Risk of Airborne Releases',
+          description: "Extensive Socio-Health Risk of High-Probability &amp; &#39;Low&#39;-Severity Chemical and Radiological Airborne Releases.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_012_project/";
+            },},{id: "projects-hybrid-solar-powered-high-performance-polymeric-materials",
+          title: 'Hybrid Solar Powered High Performance Polymeric Materials',
+          description: "Hybrid Solar Powered High Performance Polymeric Materials for Photocatalytic Hydrogen Generation from Seawater and Industrial Effluent Water Streams in Qatar.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_013_project/";
+            },},{id: "projects-indoor-air-quality-and-building-ingress-control-technologies",
+          title: 'Indoor Air Quality and Building Ingress Control Technologies',
+          description: "Indoor Air Quality and Building Ingress Control Technologies.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_014_project/";
+            },},{id: "projects-concentrating-light-technologies-for-continuous-synthesis",
+          title: 'Concentrating light technologies for continuous synthesis',
+          description: "Concentrating light technologies for the continuous synthesis of particle and deposition based functional materials with in-situ high temperature heating.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_015_project/";
+            },},{id: "projects-continuous-and-scalable-hybrid-photo-electro-chemical-production",
+          title: 'Continuous and Scalable Hybrid Photo-Electro Chemical Production',
+          description: "Continuous and Scalable Hybrid Photo-Electro Chemical Production of Renewable Hydrogen from Non-Potable Water Sources.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_016_project/";
+            },},{id: "projects-study-of-the-thermo-photophoretic-phenomena-under-concentrated-light",
+          title: 'Study of the thermo-photophoretic phenomena under concentrated light',
+          description: "Study of the thermo-photophoretic phenomena under concentrated light.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_017_project/";
+            },},{id: "projects-tailored-prevention-of-coronaviruses-transmission",
+          title: 'Tailored prevention of coronaviruses transmission',
+          description: "Tailored prevention of coronaviruses&#39; transmission via aerodynamic, behavioural, and network modelling in indoor and outdoor spaces.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_017b_project/";
+            },},{id: "projects-renewable-energy-powered-eco-innovations-in-essential-oil-extraction",
+          title: 'Renewable Energy-Powered Eco-Innovations in Essential Oil Extraction',
+          description: "Renewable Energy-Powered Eco-Innovations in Essential Oil Extraction and Waste Valorization.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_018_project/";
+            },},{id: "projects-resilience-assessment-and-enhancement-for-food-supply-chains",
+          title: 'Resilience Assessment and Enhancement for Food Supply Chains',
+          description: "Resilience Assessment and Enhancement for Food Supply Chains in the Face of Extreme Airborne Events.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RE_019_project/";
+            },},{id: "projects-a-unique-high-flux-solar-simulator",
+          title: 'A Unique High Flux Solar Simulator',
+          description: "A Unique High Flux Solar Simulator for Innovative Research in Energy, Environment and Materials.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RI_001_project/";
+            },},{id: "projects-utilization-of-qatar-surface-carbonates",
+          title: 'Utilization of Qatar Surface Carbonates',
+          description: "Utilization of the Qatar Surface Carbonates for energy storage and CO2 capture.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RI_002_project/";
+            },},{id: "projects-advanced-design-methods-for-gas-separation-membranes",
+          title: 'Advanced Design Methods for Gas Separation Membranes',
+          description: "Advanced Design Methods for Gas Separation Membranes.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RI_003_project/";
+            },},{id: "projects-novel-concentrated-light-aging-techniques",
+          title: 'Novel Concentrated-Light Aging Techniques',
+          description: "Novel Concentrated-Light Aging Techniques for High-Temperature and Solar-Energy Materials.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RI_004_project/";
+            },},{id: "projects-tailored-prevention-of-coronaviruses-transmission-via-aerodynamic-modelling",
+          title: 'Tailored prevention of coronaviruses transmission via aerodynamic modelling',
+          description: "Tailored prevention of coronaviruses&#39; transmission via aerodynamic, behavioural, and network modelling in indoor and outdoor spaces.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RI_005_project/";
+            },},{id: "projects-solar-energy-driven-hydrogen-generation-from-seawater",
+          title: 'Solar Energy Driven Hydrogen Generation from Seawater',
+          description: "Solar Energy Driven Hydrogen Generation from Seawater.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RI_005b_project/";
+            },},{id: "projects-microscale-to-macroscale-phenomena-of-bioaerosol-transport",
+          title: 'Microscale To Macroscale Phenomena Of Bioaerosol Transport',
+          description: "Microscale To Macroscale Phenomena Of Bioaerosol Transport In Smart Greenhouses.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RI_006_project/";
+            },},{id: "projects-concentrating-photo-electro-catalytic-reactors",
+          title: 'Concentrating Photo Electro Catalytic Reactors',
+          description: "Concentrating Photo Electro Catalytic Reactors for Solar Chemicals&#39; Synthesis.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RI_006b_project/";
             },},{id: "projects-qapco",
           title: 'QAPCO',
           description: "Study for Process Wastewater Discharge and NOx Emission Environmental Costs",
