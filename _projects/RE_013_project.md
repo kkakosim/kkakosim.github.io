@@ -8,7 +8,7 @@ year: 2020
 category: Qatar
 role: co-PI
 related_publications: false
-status: in-progress
+status: finished
 ---
 
 Hybrid Solar Powered High Performance Polymeric Materials for Photocatalytic Hydrogen Generation from Seawater and Industrial Effluent Water Streams in Qatar

@@ -8,7 +8,7 @@ year: 2019
 category: Qatar
 role: PI
 related_publications: false
-status: in-progress
+status: finished
 ---
 
 Qatari Birth Cohort: Primary Prevention Program of Risk Factors for Reproductive Health, Pregnancy and Child Health- A 'crossomics' study

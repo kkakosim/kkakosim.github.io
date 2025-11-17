@@ -8,7 +8,7 @@ year: 2023
 category: Industry
 role: PI
 related_publications: false
-status: in-progress
+status: finished
 ---
 
 Coke Characterization for acetylene production via the carbide calcium looping

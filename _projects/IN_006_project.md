@@ -8,7 +8,7 @@ year: 2023
 category: Industry
 role: PI
 related_publications: false
-status: in-progress
+status: inprogress
 ---
 
 Assessment of Nuisances by Airborne Emissions from Qatargas Operations

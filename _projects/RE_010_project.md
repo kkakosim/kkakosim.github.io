@@ -8,7 +8,7 @@ year: 2018
 category: Qatar
 role: co-PI
 related_publications: false
-status: in-progress
+status: finished
 ---
 
 Investigating and addressing photodegradation of conjugated polymers for solar applications

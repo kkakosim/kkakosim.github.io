@@ -8,7 +8,7 @@ year: 2024
 category: Qatar
 role: LPI
 related_publications: false
-status: in-progress
+status: finished
 ---
 
 Renewable Energy-Powered Eco-Innovations in Essential Oil Extraction and Waste Valorization

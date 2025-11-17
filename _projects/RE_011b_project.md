@@ -8,7 +8,7 @@ year: 2018
 category: Qatar
 role: LPI
 related_publications: false
-status: to-start
+status: finished
 ---
 
 Solar spectrum characterization, impact on human health and mitigation using innovative materials

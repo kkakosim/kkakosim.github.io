@@ -8,7 +8,7 @@ year: 2024
 category: Qatar
 role: LPI
 related_publications: false
-status: in-progress
+status: inprogress
 ---
 
 Resilience Assessment and Enhancement for Food Supply Chains in the Face of Extreme Airborne Events
