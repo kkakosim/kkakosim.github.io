@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HYPEC: Continuous and Scalable Hybrid Photo-Electro Chemical Production
+title: HYPEC- Continuous and Scalable Hybrid Photo-Electro Chemical Production
 description: Continuous and Scalable Hybrid Photo-Electro Chemical Production of Renewable Hydrogen from Non-Potable Water Sources.
 img: assets/img/p_RE.png
 importance: 1
