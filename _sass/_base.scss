@@ -183,15 +183,15 @@ ul.task-list input[type="checkbox"] {
   }
 
   &.importance-1 {
-    background-color: rgba(var(--global-theme-color), 0.16) !important;
+    background-color: color-mix(in srgb, var(--global-theme-color) 16%, transparent) !important;
   }
 
   &.importance-2 {
-    background-color: rgba(var(--global-theme-color), 0.06) !important;
+    background-color: color-mix(in srgb, var(--global-theme-color) 6%, transparent) !important;
   }
 
   &.importance-3 {
-    background-color: rgba(var(--global-theme-color), 0.00);
+    background-color: color-mix(in srgb, var(--global-theme-color) 0%, transparent) !important;
   }
 }
 

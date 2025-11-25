@@ -2,7 +2,7 @@
 layout: page
 title: Underwater Hydrocarbon Release Consequence Modelling
 description: Underwater Hydrocarbon Release Consequence Modelling.
-#img: assets/img/p_IN.png
+img: assets/img/icon_mkopsc.png
 importance: 3
 year: 2017
 category: Industry
