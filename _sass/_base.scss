@@ -183,15 +183,15 @@ ul.task-list input[type="checkbox"] {
   }
 
   &.importance-1 {
-    background-color: color-mix(in srgb, var(--global-theme-color) 16%, transparent) !important;
+    background-color: lighten($theme-color, 45%) !important;
   }
 
   &.importance-2 {
-    background-color: color-mix(in srgb, var(--global-theme-color) 6%, transparent) !important;
+    background-color: lighten($theme-color, 47%) !important;
   }
 
   &.importance-3 {
-    background-color: color-mix(in srgb, var(--global-theme-color) 0%, transparent) !important;
+    background-color: lighten($theme-color, 49%) !important;
   }
 }
 
