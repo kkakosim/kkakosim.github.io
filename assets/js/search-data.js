@@ -304,17 +304,6 @@ ninja.data = [{
             window.location.href = "/blog/2022/giscus-comments/";
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -423,9 +412,9 @@ ninja.data = [{
           section: "News",},{id: "news-from-lab-to-market-at-walk-auth-www",
           title: 'From Lab to Market at WALK_AUTH [www]',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-research-methods-and-experiences",
+          title: 'Research Methods and Experiences',
+          description: "Research Methods and Experiences- A Special Topic Course For Promoting Undergraduate Research.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ED_001_project/";
             },},{id: "projects-redefine-the-education-experience-via-augmented-reality-tools-eduart",
@@ -533,9 +522,9 @@ ninja.data = [{
           description: "Design of Novel Catalysts and Processes for CO2 Conversion from Micro- to Macroscale.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RE_007_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-qatari-birth-cohort-primary-prevention-program",
+          title: 'Qatari Birth Cohort - Primary Prevention Program',
+          description: "Qatari Birth Cohort- Primary Prevention Program of Risk Factors for Reproductive Health, Pregnancy and Child Health- A &#39;crossomics&#39; study.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RE_008_project/";
             },},{id: "projects-cost-effective-concentrated-photovoltaic-system",
