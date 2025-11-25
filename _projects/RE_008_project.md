@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Qatari Birth Cohort - Primary Prevention Program
-description: Qatari Birth Cohort: Primary Prevention Program of Risk Factors for Reproductive Health, Pregnancy and Child Health- A 'crossomics' study.
+description: Qatari Birth Cohort- Primary Prevention Program of Risk Factors for Reproductive Health, Pregnancy and Child Health- A 'crossomics' study.
 #img: assets/img/p_RE.png
 importance: 3
 year: 2019

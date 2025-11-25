@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Methods and Experiences
-description: Research Methods and Experiences: A Special Topic Course For Promoting Undergraduate Research.
+description: Research Methods and Experiences- A Special Topic Course For Promoting Undergraduate Research.
 #img: assets/img/p_ED.png
 importance: 3
 year: 2015
