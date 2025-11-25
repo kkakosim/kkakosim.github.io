@@ -183,11 +183,11 @@ ul.task-list input[type="checkbox"] {
   }
 
   &.importance-1 {
-    background-color: rgba(var(--global-theme-color), 0.16);
+    background-color: rgba(var(--global-theme-color), 0.16) !important;
   }
 
   &.importance-2 {
-    background-color: rgba(var(--global-theme-color), 0.06);
+    background-color: rgba(var(--global-theme-color), 0.06) !important;
   }
 
   &.importance-3 {
