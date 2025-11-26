@@ -11,6 +11,20 @@ horizontal: true
 
 <!-- pages/projects.md -->
 <div class="projects">
+
+  <!-- Importance filter buttons -->
+  <div class="project-filters mb-3">
+    <button type="button" class="btn btn-sm btn-outline-primary project-filter active" data-importance-filter="all">
+      All
+    </button>
+    <button type="button" class="btn btn-sm btn-outline-primary project-filter" data-importance-filter="1">
+      Importance 1
+    </button>
+    <button type="button" class="btn btn-sm btn-outline-primary project-filter" data-importance-filter="2">
+      Importance 2
+    </button>
+  </div>
+
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
@@ -24,14 +38,18 @@ horizontal: true
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+      <div class="col project-card" data-importance="{{ project.importance | default: 'all' }}">
+        {% include projects_horizontal.liquid %}
+      </div>
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      <div class="col project-card" data-importance="{{ project.importance | default: 'all' }}">
+        {% include projects.liquid %}
+      </div>
     {% endfor %}
   </div>
   {% endif %}
@@ -50,16 +68,47 @@ horizontal: true
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+      <div class="col project-card" data-importance="{{ project.importance | default: 'all' }}">
+        {% include projects_horizontal.liquid %}
+      </div>
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      <div class="col project-card" data-importance="{{ project.importance | default: 'all' }}">
+        {% include projects.liquid %}
+      </div>
     {% endfor %}
   </div>
   {% endif %}
 {% endif %}
 </div>
+
+<script>
+  // Simple client-side filter for project importance
+  document.addEventListener('DOMContentLoaded', function () {
+    const buttons = document.querySelectorAll('.project-filter');
+    const cards = document.querySelectorAll('.project-card');
+
+    buttons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const filter = btn.getAttribute('data-importance-filter');
+
+        // active button styling
+        buttons.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+
+        cards.forEach(card => {
+          const importance = card.getAttribute('data-importance');
+          if (filter === 'all' || importance === filter) {
+            card.style.display = '';
+          } else {
+            card.style.display = 'none';
+          }
+        });
+      });
+    });
+  });
+</script>
