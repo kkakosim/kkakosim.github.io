@@ -14,10 +14,10 @@ horizontal: true
 
   <!-- Importance filter buttons -->
   <div class="project-filters mb-3">
-    <button type="button" class="btn btn-sm btn-outline-primary project-filter active" data-importance-filter="all">
+    <button type="button" class="project-filter-btn project-filter active" data-importance-filter="all">
       All
     </button>
-    <button type="button" class="btn btn-sm btn-outline-primary project-filter" data-importance-filter="highlighted">
+    <button type="button" class="project-filter-btn project-filter" data-importance-filter="highlighted">
       Highlighted
     </button>
   </div>
@@ -25,11 +25,13 @@ horizontal: true
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "year" | reverse %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">
+      {{ category }} [{{ categorized_projects | size }}]
+    </h2>
+  </a>
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
@@ -82,6 +84,39 @@ horizontal: true
   {% endif %}
 {% endif %}
 </div>
+
+<style>
+/* Use theme variables from _sass/_base and _sass/_themes (minimal override) */
+.project-filters {
+  margin-bottom: 1rem;
+}
+
+/* Base button look – follow site button/link styling */
+.project-filter-btn {
+  display: inline-block;
+  margin-right: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid var(--border-color, #d0d7de);
+  background: var(--bg, transparent);
+  color: var(--text-color, inherit);
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+/* Hover uses primary color outline from theme */
+.project-filter-btn:hover {
+  border-color: var(--link-color, #0969da);
+  color: var(--link-color, #0969da);
+}
+
+/* Active uses filled primary style (similar to primary buttons in theme) */
+.project-filter-btn.active {
+  background: var(--link-color, #0969da);
+  border-color: var(--link-color, #0969da);
+  color: #fff;
+}
+</style>
 
 <script>
   // Simple client-side filter for project importance
