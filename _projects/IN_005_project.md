@@ -2,7 +2,7 @@
 layout: page
 title: Air pollution and air quality management in Qatar
 description: Assessment of the current state of air pollution and air quality management efforts with a view to informing the activities under National Development Strategy 2.
-#img: assets/img/p_IN.png
+img: assets/img/icon_worldbank.png
 importance: 3
 year: 2016
 category: Industry

@@ -2,7 +2,7 @@
 layout: page
 title: HYPEC- Continuous and Scalable Hybrid Photo-Electro Chemical Production
 description: Continuous and Scalable Hybrid Photo-Electro Chemical Production of Renewable Hydrogen from Non-Potable Water Sources.
-#img: assets/img/p_RE.png
+img: assets/img/icon_shell.png
 importance: 1
 year: 2020
 category: Qatar
@@ -21,10 +21,9 @@ Continuous and Scalable Hybrid Photo-Electro Chemical Production of Renewable Hy
 **Status:** Finished
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-center mt-3">
+    <div class="col-md-8 text-center">
         {% include video.liquid path="https://www.youtube.com/embed/CDfLbOQ8kCU" class="img-fluid rounded z-depth-1" %}
-    </div>
     </div>
 </div>
 <div class="caption">
