@@ -182,8 +182,8 @@ ul.task-list input[type="checkbox"] {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
   }
 
-  &.importance-1 { background-color: rgba(var(--global-theme-color-rgb)/ 0.12); }
-  &.importance-2 { background-color: rgba(var(--global-theme-color-rgb)/ 0.08); }
+  &.importance-1 { background-color: rgba(var(--global-theme-color-rgb)/ 0.16); }
+  &.importance-2 { background-color: rgba(var(--global-theme-color-rgb)/ 0.03); }
   &.importance-3 { background-color: rgba(var(--global-theme-color-rgb)/ 0.0); }
 
 }
