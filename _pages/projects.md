@@ -17,11 +17,8 @@ horizontal: true
     <button type="button" class="btn btn-sm btn-outline-primary project-filter active" data-importance-filter="all">
       All
     </button>
-    <button type="button" class="btn btn-sm btn-outline-primary project-filter" data-importance-filter="1">
-      Importance 1
-    </button>
-    <button type="button" class="btn btn-sm btn-outline-primary project-filter" data-importance-filter="2">
-      Importance 2
+    <button type="button" class="btn btn-sm btn-outline-primary project-filter" data-importance-filter="highlighted">
+      Highlighted
     </button>
   </div>
 
@@ -102,7 +99,10 @@ horizontal: true
 
         cards.forEach(card => {
           const importance = card.getAttribute('data-importance');
-          if (filter === 'all' || importance === filter) {
+          if (
+            filter === 'all' ||
+            (filter === 'highlighted' && (importance === '1' || importance === '2'))
+          ) {
             card.style.display = '';
           } else {
             card.style.display = 'none';
