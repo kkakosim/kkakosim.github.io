@@ -182,20 +182,10 @@ ul.task-list input[type="checkbox"] {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
   }
 
-  &.importance-1 {
-    background-color: var(--global-theme-color);
-    opacity: 0.08;
-  }
+  &.importance-1 { background-color: rgba(var(--global-theme-color-rgb), 0.12); }
+  &.importance-2 { background-color: rgba(var(--global-theme-color-rgb), 0.08); }
+  &.importance-3 { background-color: rgba(var(--global-theme-color-rgb), 0.0); }
 
-  &.importance-2 {
-    background-color: var(--global-theme-color);
-    opacity: 0.05;
-  }
-
-  &.importance-3 {
-    background-color: var(--global-theme-color);
-    opacity: 0.02;
-  }
 }
 
 // Citation
