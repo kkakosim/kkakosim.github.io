@@ -39,7 +39,10 @@ nav_order: 2
     </ol>
         <h2 class="category">alumni Post-Graduate</h2>
     <ol>
-        <li>Dr Amer Hakki (2024-2025)</li><li>Dr Tayseir Mohammed (2018-2022)</li><li>Dr Christos Argyropoulos (2016-2019)</li><li>Dr Jawad Sarwar (2013-2017)</li>
+        <li>Dr Amer Hakki (2024-2025), <a href="https://be.linkedin.com/in/dr-amer-hakki-6b3458253">Senior Research Fellow at Hamad bin Khalifa, University Qatar</a></li>
+        <li>Dr Tayseir Mohammed Abdellateif (2018-2022) [<a href="https://qa.linkedin.com/in/tayseir-mohammed-abdellateif-15670233">link</a>]</li>
+        <li>Dr Christos Argyropoulos (2016-2019), <a href="https://che.kfupm.edu.sa/Department-People/faculty/faculty-details/dr.-christos-d.-argyropoulos">Faculty at King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia</a></li>
+        <li>Dr Jawad Sarwar (2013-2017), <a href="https://staff.uet.edu.pk/profile/1280">Faculty at University of Engineering Technology, Lahore Pakistan</a></li>
     </ol>
     <a id="TAMU-2012" href=".#TAMU-2012">
         <h2 class="category">alumni while at Texas A&M University (Qatar/College Station) 2012-2025</h2>
