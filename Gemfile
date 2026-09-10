@@ -19,15 +19,9 @@ group :jekyll_plugins do
     gem 'jekyll-tabs'
     gem 'jekyll-terser', :git => "https://github.com/RobertoJBeltran/jekyll-terser.git"
     gem 'jekyll-toc'
-    gem 'github-pages'
-    gem 'jekyll-paginate'
     gem 'jekyll-twitter-plugin'
-    gem 'jekyll-sitemap'
     gem 'jemoji'
-    gem 'mini_racer'
-    gem 'unicode_utils'
     gem 'classifier-reborn'  # used for content categorization during the build
-    gem 'webrick'
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
