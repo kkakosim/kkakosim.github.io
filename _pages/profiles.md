@@ -1,10 +1,11 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /profiles-demo/
 title: people
 description: members of the lab or group
 nav: false
 nav_order: 2
+published: false # unused template demo page; real people page is _pages/people.md
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
