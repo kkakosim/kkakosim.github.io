@@ -89,3 +89,61 @@ All seven `test/integration_*.sh` scripts are gated by `unit-tests.yml`; run the
 - `.agents/skills/al-folio-bootstrap/SKILL.md` — new-site setup workflow.
 - `.agents/skills/al-folio-v1-migration/SKILL.md` — customized-fork migration and override drift auditing.
 - `.codex/skills` and `.claude/skills` are symlinks to `.agents/skills` for agent-specific discovery.
+
+## This Site's Ownership Contract
+
+This repository is Konstantinos Kakosimos's customized personal site. Preserve
+these site-owned sources when updating dependencies or the starter contract:
+
+- `_config.yml` identity, production URL, feature choices, and Scholar matching
+- `_pages`, `_projects`, `_news`, and `_bibliography`
+- `_data/socials.yml` and `assets/json/resume.json`
+- site-specific files under `assets/img` and `assets/pdf`
+
+The Scholar identity must remain `Kakosimos` / `Konstantinos`, the production
+URL must remain `https://kkakosim.github.io` with an empty `baseurl`, and demo
+Einstein content must not be restored. The home page uses real announcements
+and no sample latest-post feed. The custom projects page groups funded projects
+and filters highlighted entries. The bookshelf demo is not public.
+
+Keep `al_folio.compat.bootstrap.enabled: false`. The retained pages use the v1
+core layout utilities and no Bootstrap JavaScript behavior. Enabling the
+temporary compatibility stylesheet reintroduces a `.collapse` visibility
+conflict with the responsive navbar. Treat compatibility mode only as a
+short-lived fallback while migrating newly added legacy markup.
+
+## Updating al-folio Later
+
+Do not rebase this site onto `alshedivat/al-folio` or copy runtime directories
+from the starter. The runtime is supplied by versioned gems. Perform upgrades
+on a disposable branch and keep the current site on a dated backup branch:
+
+```sh
+git status --short
+git branch backup/pre-al-folio-<version>
+git switch -c upgrade/al-folio-<version>
+bundle update
+bundle exec al-folio upgrade audit --no-fail
+bundle exec al-folio upgrade overrides audit
+bundle exec al-folio upgrade report
+```
+
+Keep `Gemfile` and `_config.yml` plugin entries synchronized. Preserve
+`theme: al_folio_core` and the `al_folio` v1 API contract. Apply deterministic
+changes only after reviewing the report:
+
+```sh
+bundle exec al-folio upgrade apply --safe
+```
+
+For every intentional local layout, include, or Sass override, review and
+record its upstream version:
+
+```sh
+bundle exec al-folio upgrade overrides diff LOCAL_PATH
+bundle exec al-folio upgrade overrides accept LOCAL_PATH
+```
+
+Commit `.al-folio-overrides.yml` whenever overrides exist. Before merging an
+upgrade, run the validated command set above and inspect `/`, `/cv/`,
+`/publications/`, `/projects/`, `/people/`, `/teaching/`, and `/bookstech/`.

@@ -1,221 +1,202 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Konstantinos E Kakosimos",
+    "label": "Associate Professor",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "kkakosimos@auth.gr",
+    "phone": "+30 2310 996169",
+    "url": "",
+    "summary": "Associate Professor at Aristotle University of Thessaloniki (AUTh); adjunct at Texas A&M University at Qatar (TAMUQ). Research focuses on transport & reacting phenomena, environmental sustainability and air quality, solar-driven chemical processes, and process safety.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Building E13, Aristotle University Campus",
+      "postalCode": "54636",
+      "city": "Thessaloniki",
+      "countryCode": "GR",
+      "region": "Central Macedonia"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "X",
+        "username": "kkakosim",
+        "url": "https://x.com/kkakosim"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
-    },
-    {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
+      "name": "Cleaner Engineering & Technology",
+      "position": "Associate Editor",
+      "url": "https://www.sciencedirect.com/journal/cleaner-engineering-and-technology",
+      "startDate": "2025-10-01",
+      "endDate": "2026-09-30",
+      "summary": "Handling and selection of submissions",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
+      "name": "Aristotle University of Thessaloniki (AUTh)",
+      "position": "Associate Professor",
+      "url": "https://www.cheng.auth.gr",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Teaching and research in chemical engineering with emphasis on experimental transport phenomena.",
+      "highlights": [
+        "clean and sustainable chemical engineering, circular economy, renewable hydrogen, solar-driven and photo-electro-chemical processes, irradiation-assisted catalysis, hybrid thermal-photon systems, process intensification, decarbonization of cement and minerals, air quality and pollution reduction, particulate matter and aerosol characterization and apportionment, environmental fluid mechanics, digital twins and process systems modeling, environmental data analytics, techno-economic and life cycle assessment, environmental and safety decision support systems"
+      ]
+    },
+    {
+      "name": "Texas A&M University at Qatar (TAMUQ)",
+      "position": "Professor (Assistant → Associate → Professor); Adjunct Professor (since 2025)",
+      "url": "https://www.qatar.tamu.edu/",
+      "startDate": "2012-12",
+      "endDate": "2025-08",
+      "location": "Doha, Qatar",
+      "summary": "Faculty member with progressive appointments; currently Adjunct Professor.",
+      "highlights": [
+        "Associate Dean for Research & Graduate Studies (2024-08 – 2025-02)",
+        "Interim Program Chair, Chemical Engineering (2024-08 – 2025-03)",
+        "Associate Dean for Graduate Studies (2023-07 – 2024-07)",
+        "Taught undergraduate and graduate courses (e.g., CHEN 304, CHEN 629).",
+        "Advised 20+ MSc students and mentored numerous UGR and graduate researchers."
+      ]
+    },
+    {
+      "name": "Centre for Research and Technology Hellas (CERTH)",
+      "position": "Principal Researcher",
+      "url": "https://www.certh.gr/",
+      "startDate": "2021-01",
+      "endDate": "2022-12",
+      "location": "Greece",
+      "summary": "Principal Researcher working on energy, environment, and materials projects.",
       "highlights": []
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
+      "name": "HYETOS GP",
+      "position": "Consultant & Design Engineer – Project Manager",
+      "url": "",
+      "startDate": "2010-01",
+      "endDate": "2012-12",
+      "location": "Greece",
+      "summary": "Consulting, process design, and project management for engineering projects.",
+      "highlights": []
+    },
+    {
+      "name": "Aristotle University of Thessaloniki (AUTh)",
+      "position": "Research Assistant / Associate",
+      "url": "https://www.auth.gr/",
+      "startDate": "2002-01",
+      "endDate": "2009-12",
+      "location": "Thessaloniki, Greece",
+      "summary": "Research in environmental engineering, transport phenomena, and thermophysical properties.",
       "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Athens 2004",
+      "position": "Volunteer",
+      "url": "",
+      "startDate": "2004-07-01",
+      "endDate": "2004-08-31",
+      "summary": "Spectators services at Thessaloniki",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Aristotle University of Thessaloniki",
+      "location": "Thessaloniki, Greece",
+      "url": "https://www.auth.gr/",
+      "area": "Chemical Engineering",
+      "studyType": "Diploma (5 year)",
+      "startDate": "1997-10",
+      "endDate": "2002-06",
+      "score": "8.72/100 (all times upper 4% as of 2010)",
+      "courses": []
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Aristotle University of Thessaloniki",
+      "location": "Thessaloniki, Greece",
+      "url": "https://www.auth.gr/",
+      "area": "Chemical Engineering",
+      "studyType": "PhD",
+      "startDate": "2002-11",
+      "endDate": "2009-02",
+      "score": "Excellent",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
+      "title": "Dean’s Achievement Award",
+      "date": "2023",
+      "awarder": "Texas A&M University at Qatar",
       "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "title": "Faculty Excellence Award",
+      "date": "2019",
+      "awarder": "Texas A&M University at Qatar",
+      "summary": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "title": "Research Excellence Award for Early Career Faculty",
+      "date": "2017",
+      "awarder": "Texas A&M University at Qatar",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "title": "Research Laboratory Safety Award",
+      "date": "2016",
+      "awarder": "Texas A&M University at Qatar",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
+      "title": "IChemE Hutchison Medal",
+      "date": "2015",
+      "awarder": "Institution of Chemical Engineers (IChemE)",
+      "summary": ""
+    },
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "title": "PostDoc Honorable Distinction",
+      "date": "2009",
+      "awarder": "Research Committee of Aristotle University",
+      "summary": ""
+    },
+    {
+      "title": "PhD Honorable Distinction",
+      "date": "2008",
+      "awarder": "Research Committee of Aristotle University",
+      "summary": ""
+    },
+    {
+      "title": "Honorable Distinction",
+      "date": "2001-2002",
+      "awarder": "Technical Chamber of Greece (1st in Department)",
+      "summary": ""
+    },
+    {
+      "title": "Honorable Distinction",
+      "date": "1997-1998",
+      "awarder": "National Foundation of Scholarships, Greece",
+      "summary": ""
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Greek",
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "fluency": "C2 (Certificate of Proficiency in English, University of Michigan, 2001)"
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
+      "language": "Italian",
+      "fluency": "B1 (Diploma di Lingua Italiano, Istituto Italiano, 2000)"
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "language": "German",
+      "fluency": "B1 (Zertifikat Deutsch als Fremdsprache, Goethe Institute, 1997)"
     }
   ]
 }
