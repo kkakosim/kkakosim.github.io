@@ -3,11 +3,11 @@
  ******************************************************************************/
 @charset "UTF-8";
 html {
-    margin-left: calc(100vw - 100%);
-    margin-right: 0;
+  margin-left: calc(100vw - 100%);
+  margin-right: 0;
 }
 
- // Typography
+// Typography
 
 p,
 h1,
@@ -56,7 +56,7 @@ table.table a {
 
 .table-dark {
   background-color: transparent;
-  &.table-bordered{
+  &.table-bordered {
     border: 1px solid var(--global-divider-color) !important;
   }
 }
@@ -84,7 +84,12 @@ blockquote {
       color: var(--global-tip-block-text);
     }
 
-    h1, h2, h3, h4, h5, h6 {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
       color: var(--global-tip-block-title);
     }
   }
@@ -100,7 +105,12 @@ blockquote {
       color: var(--global-warning-block-text);
     }
 
-    h1, h2, h3, h4, h5, h6 {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
       color: var(--global-warning-block-title);
     }
   }
@@ -116,7 +126,12 @@ blockquote {
       color: var(--global-danger-block-text);
     }
 
-    h1, h2, h3, h4, h5, h6 {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
       color: var(--global-danger-block-title);
     }
   }
@@ -172,9 +187,17 @@ ul.task-list input[type="checkbox"] {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
   }
 
-  &.importance-1 { background-color: rgba(var(--global-theme-color-rgb)/ 0.16); }
-  &.importance-2 { background-color: rgba(var(--global-theme-color-rgb)/ 0.08); }
-  &.importance-3 { background-color: rgba(var(--global-theme-color-rgb)/ 0.0); }
+  &.importance-1 {
+    background-color: rgba(var(--global-theme-color-rgb) / 0.16);
+  }
+
+  &.importance-2 {
+    background-color: rgba(var(--global-theme-color-rgb) / 0.08);
+  }
+
+  &.importance-3 {
+    background-color: transparent;
+  }
 }
 
 // Citation
@@ -235,7 +258,6 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-
 // Navbar customization
 
 .navbar {
@@ -290,7 +312,7 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
-  .navbar-nav .nav-item.active>.nav-link {
+  .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
     font-weight: bolder;
     color: var(--global-theme-color);
@@ -409,8 +431,8 @@ ul.task-list input[type="checkbox"] {
   width: 100%;
   height: 100%;
   overflow: auto;
-  background-color: rgb(0,0,0);
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 .wechat-modal > img {
@@ -423,12 +445,11 @@ ul.task-list input[type="checkbox"] {
   transform: translate(-50%, -50%);
 }
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 400px) {
   .wechat-modal > img {
     width: 100%;
   }
 }
-
 
 // Footer
 footer.fixed-bottom {
@@ -602,7 +623,6 @@ footer.sticky-bottom {
   }
 }
 
-
 // Distill
 
 .distill {
@@ -611,7 +631,6 @@ footer.sticky-bottom {
     text-decoration: none;
   }
 }
-
 
 // Projects
 
@@ -651,7 +670,6 @@ footer.sticky-bottom {
     text-align: right;
   }
 }
-
 
 // Publications
 
@@ -730,12 +748,12 @@ footer.sticky-bottom {
           }
         }
 
-        >em {
+        > em {
           border-bottom: 1px solid;
           font-style: normal;
         }
 
-        >span.more-authors {
+        > span.more-authors {
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
           cursor: pointer;
@@ -858,7 +876,6 @@ code {
   padding: 3px 3px;
 }
 
-
 // Transitioning Themes
 html.transition,
 html.transition *,
@@ -955,14 +972,14 @@ progress::-moz-progress-bar {
   .copy {
     background: var(--global-card-bg-color);
     border-color: var(--global-bg-color);
-    border-radius: .3rem;
+    border-radius: 0.3rem;
     border-style: none;
     color: var(--global-text-color);
     font-size: medium;
     opacity: 0;
     position: absolute;
-    right: .2rem;
-    top: .2rem;
+    right: 0.2rem;
+    top: 0.2rem;
   }
 
   &:active .copy,
@@ -1010,7 +1027,8 @@ progress::-moz-progress-bar {
     }
   }
 
-  .dropdown-item.active, .dropdown-item:active {
+  .dropdown-item.active,
+  .dropdown-item:active {
     background-color: var(--global-hover-color);
     color: var(--global-hover-text-color) !important;
 
@@ -1024,13 +1042,13 @@ progress::-moz-progress-bar {
 nav[data-toggle="toc"] {
   top: 5rem;
 
-  .nav .nav>li>a {
-    font-size: .75rem;
+  .nav .nav > li > a {
+    font-size: 0.75rem;
   }
 
-  .nav>li>a {
+  .nav > li > a {
     color: var(--global-text-color);
-    font-size: .75rem;
+    font-size: 0.75rem;
 
     &:hover {
       color: var(--global-hover-color);
@@ -1041,7 +1059,7 @@ nav[data-toggle="toc"] {
   .nav-link.active {
     color: var(--global-theme-color);
     border-left-color: var(--global-theme-color);
-    font-size: .75rem;
+    font-size: 0.75rem;
 
     &:hover {
       color: var(--global-hover-color);
