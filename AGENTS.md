@@ -33,7 +33,10 @@ these deliberately instead of restoring either version wholesale.
   `.importance-1`, `.importance-2`, and `.importance-3`.
 - `_layouts/default.liquid` must load `{% include scripts.liquid %}`. The legacy
   per-library includes read obsolete top-level dependency settings and generate
-  invalid URLs such as `jquery@/`, breaking publication controls.
+  invalid URLs such as `jquery@/`, breaking jQuery-dependent theme features.
+- Publication toggles in `assets/js/common.js` and `_layouts/bib.liquid` must
+  remain native DOM interactions without inline jQuery, so abstracts and
+  expanded author lists still work if the external jQuery CDN is unavailable.
 - The bookshelf and demo profile pages are not part of the public site.
 - The deployment workflow must retain all scripts required by the default
   layout and must build successfully before deployment.
