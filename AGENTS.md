@@ -31,6 +31,9 @@ these deliberately instead of restoring either version wholesale.
   horizontal cards, and filters highlighted projects by `importance`.
 - `_sass/_base.scss` gives project cards visual emphasis through
   `.importance-1`, `.importance-2`, and `.importance-3`.
+- `_layouts/default.liquid` must load `{% include scripts.liquid %}`. The legacy
+  per-library includes read obsolete top-level dependency settings and generate
+  invalid URLs such as `jquery@/`, breaking publication controls.
 - The bookshelf and demo profile pages are not part of the public site.
 - The deployment workflow must retain all scripts required by the default
   layout and must build successfully before deployment.
@@ -72,6 +75,7 @@ rg -n "Albert Einstein|A simple inline announcement|title: project [0-9]" \
   _config.yml _data _pages _news _projects _bibliography
 npx prettier . --check
 bundle exec jekyll build
+rg -n "jquery@/|mdbootstrap@/" _site
 ```
 
 If local Ruby/Bundler is unavailable, run `docker compose up --build` and inspect
