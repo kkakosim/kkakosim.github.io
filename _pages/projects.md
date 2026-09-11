@@ -92,7 +92,19 @@ horizontal: true
 </div>
 
 <style>
-/* Use theme variables from _sass/_base and _sass/_themes (minimal override) */
+/* Preserve the site's importance hierarchy without overriding the v1 project include. */
+.project-card[data-importance="1"] .card {
+  background-color: color-mix(in srgb, var(--global-theme-color) 16%, transparent);
+}
+
+.project-card[data-importance="2"] .card {
+  background-color: color-mix(in srgb, var(--global-theme-color) 8%, transparent);
+}
+
+.project-card[data-importance="3"] .card {
+  background-color: transparent;
+}
+
 .project-filters {
   margin-bottom: 1rem;
 }

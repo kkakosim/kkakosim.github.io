@@ -105,7 +105,9 @@ The Scholar identity must remain `Kakosimos` / `Konstantinos`, the production
 URL must remain `https://kkakosim.github.io` with an empty `baseurl`, and demo
 Einstein content must not be restored. The home page uses real announcements
 and no sample latest-post feed. The custom projects page groups funded projects
-and filters highlighted entries. The bookshelf demo is not public.
+and filters highlighted entries. Preserve its importance hierarchy: level 1
+cards use a 16% theme-color tint, level 2 cards use an 8% tint, and level 3
+cards remain transparent. The bookshelf demo is not public.
 
 Keep `al_folio.compat.bootstrap.enabled: false`. The retained pages use the v1
 core layout utilities and no Bootstrap JavaScript behavior. Enabling the
