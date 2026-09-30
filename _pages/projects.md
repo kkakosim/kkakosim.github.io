@@ -109,7 +109,7 @@ horizontal: true
   margin-bottom: 1rem;
 }
 
-/* Base button look – follow site button/link styling */
+/* Base button look β€“ follow site button/link styling */
 .project-filter-btn {
   display: inline-block;
   margin-right: 0.5rem;
@@ -134,6 +134,9 @@ horizontal: true
   border-color: var(--link-color, #0969da);
   color: #fff;
 }
+  .projects .card-title {
+    font-size: 1.1rem;
+  }
 </style>
 
 <script>
@@ -165,3 +168,4 @@ horizontal: true
     });
   });
 </script>
+

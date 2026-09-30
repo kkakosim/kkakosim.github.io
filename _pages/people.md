@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 permalink: /people/
 title: people
@@ -16,7 +16,6 @@ nav_order: 2
             <li>Dimitris Tsakiridis: PhD student (Mechanical Engineer) working on gas pipelines process safety</li>
             <li>Ola Srour: Doctorate studies at Texas A&M University</li>
             <li>Ahmed Abbas: Doctorate studies at Texas A&M University</li>
-            <li>Lazaros Zarras: MSc studies at Hanze University of Applied Sciences, Netherlands</li>
         </ul>
         <h3 class="category">undergraduate</h3>
         <ul>
@@ -26,6 +25,14 @@ nav_order: 2
             <li>Paschalia Papadaki</li>
             <li>Nikolao Ntasio</li>
         </ul>
+    <a id="undergraduate-alumni" href=".#undergraduate-alumni">
+        <h2 class="category">alumni Undergraduate</h2>
+    </a>
+    <ol>
+        <li>Nikoleta Ioannidou (2026): "Behavior of Particle Deposits on Pipelines under Wind Cross-Flow Conditions"</li>
+        <li>Paraskevi Karathanasi (2026): "Development and computational simulation of a one-dimensional model for an industrial cement precalciner"</li>
+        <li>George Pitsos (2026): "Extension of evacuation models with dynamic pathfinding based on toxic load exposure"</li>
+    </ol>
     <a id="doctorate" href=".#doctorate">
         <h2 class="category">alumni Doctorate</h2>
     </a>
@@ -38,20 +45,14 @@ nav_order: 2
     </ol>
         <h2 class="category">alumni Post-Graduate</h2>
     <ol>
-        <li>Khadija Al-Nabhani, working for Earthna at Qatar Foundation</li>
+        <li>Lazaros Zarras (2025-2026): MSc studies at Hanze University of Applied Sciences, Netherlands</li>
+        <li>Dr Khadija Al-Nabhani (2024-2026), working for Earthna at Qatar Foundation</li>
         <li>Dr Amer Hakki (2024-2025), <a href="https://be.linkedin.com/in/dr-amer-hakki-6b3458253">Senior Research Fellow at Hamad bin Khalifa, University Qatar</a></li>
         <li>Dr Tayseir Mohammed Abdellateif (2018-2022) [<a href="https://qa.linkedin.com/in/tayseir-mohammed-abdellateif-15670233">link</a>]</li>
         <li>Dr Christos Argyropoulos (2016-2019), <a href="https://che.kfupm.edu.sa/Department-People/faculty/faculty-details/dr.-christos-d.-argyropoulos">Faculty at King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia</a></li>
         <li>Dr Jawad Sarwar (2013-2017), <a href="https://staff.uet.edu.pk/profile/1280">Faculty at University of Engineering Technology, Lahore Pakistan</a></li>
     </ol>
-    <a id="undergraduate-alumni" href=".#undergraduate-alumni">
-        <h2 class="category">alumni Undergraduate</h2>
-    </a>
-    <ul>
-        <li>Nikoleta Ioannidou (2026): "Behavior of Particle Deposits on Pipelines under Wind Cross-Flow Conditions"</li>
-        <li>Paraskevi Karathanasi (2026): "Development and computational simulation of a one-dimensional model for an industrial cement precalciner"</li>
-        <li>George Pitsos (2026): "Extension of evacuation models with dynamic pathfinding based on toxic load exposure"</li>
-    </ul>
+    
     <a id="TAMU-2012" href=".#TAMU-2012">
         <h2 class="category">alumni while at Texas A&M University (Qatar/College Station) 2012-2025</h2>
     </a>

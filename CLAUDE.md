@@ -46,3 +46,8 @@ Other gates:
 ## Gem version pins
 
 `Gemfile` pins every `al-*` gem to an exact released version in `group :al_folio_plugins`, and `_config.yml` lists the same gems under `plugins:`. Read the current pins from the `Gemfile` rather than trusting any version quoted in prose — including here. To test a gem fix against this site, repoint the `Gemfile` at a sibling checkout (`path:`, `git:`, or `branch:`) and `bundle install`; see [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md#working-on-a-gem-alongside-the-starter). Revert the pin before committing.
+
+## Agent File Editing on Windows/WSL
+
+When creating or editing Markdown files (especially with front matter), **never** write files with a UTF-8 Byte Order Mark (BOM) or CRLF line endings (e.g., via PowerShell's Set-Content without careful encoding settings). Jekyll runs in WSL (Linux) and will fail to parse front matter containing \r or a BOM (\xef\xbb\xbf), which causes it to silently ignore the front matter. This can cause the page to disappear from the navigation (because 
+av: true is ignored) or drop posts entirely. Always ensure files are written as pure UTF-8 (no BOM) with LF line endings.
