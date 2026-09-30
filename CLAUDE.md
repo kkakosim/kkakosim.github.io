@@ -51,3 +51,12 @@ Other gates:
 
 When creating or editing Markdown files (especially with front matter), **never** write files with a UTF-8 Byte Order Mark (BOM) or CRLF line endings (e.g., via PowerShell's Set-Content without careful encoding settings). Jekyll runs in WSL (Linux) and will fail to parse front matter containing \r or a BOM (\xef\xbb\xbf), which causes it to silently ignore the front matter. This can cause the page to disappear from the navigation (because
 av: true is ignored) or drop posts entirely. Always ensure files are written as pure UTF-8 (no BOM) with LF line endings.
+
+## News Feed Layouts (Front Page vs Independent Pages)
+
+When adding custom elements (like right-aligned thumbnails on the front page vs large images on independent news pages) to news posts with inline: true, **do not** use Liquid conditionals like {% if page.url == '/' %} inside the post. Jekyll evaluates item.content in the context of the post itself, not the page it is being included on.
+
+**The robust solution is pure CSS toggling:**
+1. Include both the thumbnail and the full image in the _news markdown file.
+2. Hide the thumbnail by default using inline CSS (e.g., style="display: none;"), so it stays hidden on /news/ and independent post pages.
+3. Add a <style> block to the bottom of _pages/about.md containing !important overrides (e.g., .news-thumbnail { display: block !important; }). Since bout.md is only rendered on the front page, these CSS rules will selectively display the thumbnails and hide the full images only on the home page.
