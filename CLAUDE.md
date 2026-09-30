@@ -49,5 +49,5 @@ Other gates:
 
 ## Agent File Editing on Windows/WSL
 
-When creating or editing Markdown files (especially with front matter), **never** write files with a UTF-8 Byte Order Mark (BOM) or CRLF line endings (e.g., via PowerShell's Set-Content without careful encoding settings). Jekyll runs in WSL (Linux) and will fail to parse front matter containing \r or a BOM (\xef\xbb\xbf), which causes it to silently ignore the front matter. This can cause the page to disappear from the navigation (because 
+When creating or editing Markdown files (especially with front matter), **never** write files with a UTF-8 Byte Order Mark (BOM) or CRLF line endings (e.g., via PowerShell's Set-Content without careful encoding settings). Jekyll runs in WSL (Linux) and will fail to parse front matter containing \r or a BOM (\xef\xbb\xbf), which causes it to silently ignore the front matter. This can cause the page to disappear from the navigation (because
 av: true is ignored) or drop posts entirely. Always ensure files are written as pure UTF-8 (no BOM) with LF line endings.
