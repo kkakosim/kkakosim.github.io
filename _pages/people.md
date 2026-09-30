@@ -20,10 +20,10 @@ nav_order: 2
         <h3 class="category">undergraduate</h3>
         <ul>
             <li>Alexandros Dimakas</li>
-            <li>Iris Alexandra</li>
+            <li>Iris-Alexandra Bouzoura</li>
             <li>Maria Messini</li>
             <li>Paschalia Papadaki</li>
-            <li>Nikolao Ntasio</li>
+            <li>Nikolaos Ntasios-Moraitis</li>
         </ul>
     <a id="undergraduate-alumni" href=".#undergraduate-alumni">
         <h2 class="category">alumni Undergraduate</h2>
