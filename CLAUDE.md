@@ -57,6 +57,10 @@ av: true is ignored) or drop posts entirely. Always ensure files are written as 
 When adding custom elements (like right-aligned thumbnails on the front page vs large images on independent news pages) to news posts with inline: true, **do not** use Liquid conditionals like {% if page.url == '/' %} inside the post. Jekyll evaluates item.content in the context of the post itself, not the page it is being included on.
 
 **The robust solution is pure CSS toggling:**
-1. Include both the thumbnail and the full image in the _news markdown file.
+
+1. Include both the thumbnail and the full image in the \_news markdown file.
 2. Hide the thumbnail by default using inline CSS (e.g., style="display: none;"), so it stays hidden on /news/ and independent post pages.
-3. Add a <style> block to the bottom of _pages/about.md containing !important overrides (e.g., .news-thumbnail { display: block !important; }). Since bout.md is only rendered on the front page, these CSS rules will selectively display the thumbnails and hide the full images only on the home page.
+3. Add a <style> block to the bottom of \_pages/about.md containing !important overrides (e.g., .news-thumbnail { display: block !important; }). Since bout.md is only rendered on the front page, these CSS rules will selectively display the thumbnails and hide the full images only on the home page.
+
+4. **Prettier Formatting:** After creating or modifying any files (Markdown, HTML, YAML, etc.), you must always run
+   px prettier . --write to automatically format them. Failing to do so will cause the prettier.yml GitHub Actions workflow to fail with an exit code 1 when the user pushes your changes.

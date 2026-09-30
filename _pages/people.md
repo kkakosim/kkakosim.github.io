@@ -13,9 +13,9 @@ nav_order: 2
     </a>
         <h3 class="category">graduate</h3>
         <ul>
-            <li>Dimitris Tsakiridis: PhD student (Mechanical Engineer) working on gas pipelines process safety</li>
-            <li>Ola Srour: Doctorate studies at Texas A&M University</li>
-            <li>Ahmed Abbas: Doctorate studies at Texas A&M University</li>
+            <li>Dimitris Tsakiridis: Doctorate studies at AUTh (MSc Mechanical Engineer) working on gas pipelines process safety</li>
+            <li>Ola Srour: Doctorate studies at Texas A&M University (MSc Chemical Engineer) working on underground gas releases</li>
+            <li>Ahmed Abbas: Doctorate studies at Texas A&M University (MSc Electrical Engineer) working on hybrid natural/artificial light photoreactors</li>
         </ul>
         <h3 class="category">undergraduate</h3>
         <ul>

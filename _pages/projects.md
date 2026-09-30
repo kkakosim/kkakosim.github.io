@@ -168,4 +168,3 @@ horizontal: true
     });
   });
 </script>
-
