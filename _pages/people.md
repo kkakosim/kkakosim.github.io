@@ -19,11 +19,17 @@ nav_order: 2
         </ul>
         <h3 class="category">undergraduate</h3>
         <ul>
-            <li>Alexandros Dimakas</li>
-            <li>Iris-Alexandra Bouzoura</li>
-            <li>Maria Messini</li>
-            <li>Paschalia Papadaki</li>
-            <li>Nikolaos Ntasios-Moraitis</li>
+            <li>Alexandros Dimakas [design and operational evaluation a portable cold plasma generator]</li>
+            <li>Iris-Alexandra Bouzoura [study of the particle seggregation in 2D beds under heat flux]</li>
+            <li>Maria Messini [heat transfer analysis and modeling of monolithic solar receivers for industrial process heat]</li>
+            <li>Paschalia Papadaki [emissions modeling of fugitive volatile organic compounds from industrial plants]</li>
+            <li>Nikolaos Ntasios-Moraitis [development of deep learning models for the analysis of atmospheric dispersion simulations and decision making in the industry]</li>
+            <li>Alexandros Akritidis [the effect of flow conditions on bioactive material synthesis in microfluidic reactors]</li>
+            <li>Anargyros Stavrinoudis [carbon capture via aerosol and pH swing processes]</li>
+            <li>Louiza Christoudi [chemical characterization and modeling of a plasma jet generator]</li>
+            <li>Loukia Konstantou [correlations for powder bed deposits on pipelines]</li>
+            <li>Anastasios Salamotas [aerosol spray synthesis of bioactive materials]</li>
+            <!--<li> [sterilization of surfaces via an atmospheric pressure plasma jet]</li>-->
         </ul>
     <a id="undergraduate-alumni" href=".#undergraduate-alumni">
         <h2 class="category">alumni Undergraduate</h2>
