@@ -92,10 +92,13 @@ jobs:
           echo "🔧 Git configured."
 
       - name: Commit and push if changed
+        if: steps.before.outputs.sha_before != steps.after.outputs.sha_after && steps.after.outputs.sha_after != 'none'
         run: |
-          git add _data/citations.yml
-          git diff --staged --quiet || (
-            echo "📤 Committing and pushing changes..."
-            git commit -m "Update Google Scholar citations"
-            git push
-          )
+          if [ -f _data/citations.yml ]; then
+            git add _data/citations.yml
+            git diff --staged --quiet || (
+              echo "📤 Committing and pushing changes..."
+              git commit -m "Update Google Scholar citations"
+              git push
+            )
+          fi
