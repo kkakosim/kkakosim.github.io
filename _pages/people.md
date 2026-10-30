@@ -58,7 +58,7 @@ nav_order: 2
         <li>Dr Christos Argyropoulos (2016-2019), <a href="https://che.kfupm.edu.sa/Department-People/faculty/faculty-details/dr.-christos-d.-argyropoulos">Faculty at King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia</a></li>
         <li>Dr Jawad Sarwar (2013-2017), <a href="https://staff.uet.edu.pk/profile/1280">Faculty at University of Engineering Technology, Lahore Pakistan</a></li>
     </ol>
-    
+
     <a id="TAMU-2012" href=".#TAMU-2012">
         <h2 class="category">alumni while at Texas A&M University (Qatar/College Station) 2012-2025</h2>
     </a>
@@ -102,4 +102,5 @@ nav_order: 2
             <li>TAMU (summer): Haseler D. (2019), Douglas M. (2019), Collier Ch. (2019), Frohreich N. (2022), Pinilla-Silva D. (2022), Thomas J. (2023), Bird W. (2023), Prokhorov M. (2023), Kailing J. (2023)</li>
             <li>Non-TAMUQ: M.A. Abraham (2017, Queen Mary University of London UK; two summer terms 2015 & 2016), B. Akbar (2017, Lafayette College in PA, USA; one summer term 2015), T. Faiz (2018, Delhi Technological University, India; one summer term 2016)</li>
         </ul>
+
 </div>
