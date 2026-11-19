@@ -24,15 +24,6 @@
   },
   "work": [
     {
-      "name": "Cleaner Engineering & Technology",
-      "position": "Associate Editor",
-      "url": "https://www.sciencedirect.com/journal/cleaner-engineering-and-technology",
-      "startDate": "2025-10-01",
-      "endDate": "",
-      "summary": "Handling and selection of submissions",
-      "highlights": []
-    },
-    {
       "name": "Aristotle University of Thessaloniki (AUTh)",
       "position": "Associate Professor",
       "url": "https://www.cheng.auth.gr",
@@ -44,21 +35,30 @@
       ]
     },
     {
+      "name": "Cleaner Engineering & Technology",
+      "position": "Associate Editor",
+      "url": "https://www.sciencedirect.com/journal/cleaner-engineering-and-technology",
+      "startDate": "2025-10-01",
+      "endDate": "",
+      "summary": "Handling and selection of submissions",
+      "highlights": []
+    },
+    {
       "name": "Texas A&M University at Qatar (TAMUQ)",
-      "position": "Professor (Assistant → Associate → Professor); Adjunct Professor (since 2025)",
+      "position": "Professor (Assistant → Associate → Professor); Associate Dean for Research & Graduate Studies (2024-08 – 2025-02); Adjunct Professor (since 2025)",
       "url": "https://www.qatar.tamu.edu/",
       "startDate": "2012-12",
       "endDate": "2025-08",
       "location": "Doha, Qatar",
-      "summary": "Faculty member with progressive appointments; currently Adjunct Professor.",
+      "summary": "Faculty member with progressive academic & administrative appointments; currently Adjunct Professor.",
       "highlights": [
-        "Associate Dean for Research & Graduate Studies (2024-08 – 2025-02)",
+        "Chemical Engineering Graduate Program Director (2021-10 – 2025-03)",
         "Interim Program Chair, Chemical Engineering (2024-08 – 2025-03)",
-        "Associate Dean for Graduate Studies (2023-07 – 2024-07)",
-        "Taught undergraduate and graduate courses (e.g., CHEN 304, CHEN 629).",
+        "Taught undergraduate and graduate courses (e.g., CHEN 304 Fluid Operations, CHEN 320 Numerical Analysis, CHEN 482 Bioprocess Engineering, CHEN 629 Transport Phenomena, CHEN 660 Quantitative Risk Analysis).",
         "Advised 20+ MSc students and mentored numerous UGR and graduate researchers."
       ]
     },
+    
     {
       "name": "Centre for Research and Technology Hellas (CERTH)",
       "position": "Principal Researcher",
