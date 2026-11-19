@@ -29,7 +29,9 @@ nav_order: 2
             <li>Louiza Christoudi [chemical characterization and modeling of a plasma jet generator]</li>
             <li>Loukia Konstantou [correlations for powder bed deposits on pipelines]</li>
             <li>Anastasios Salamotas [aerosol spray synthesis of bioactive materials]</li>
-            <!--<li> [sterilization of surfaces via an atmospheric pressure plasma jet]</li>-->
+            <li> Maria-Stefania Charitonidou [sterilization of surfaces via an atmospheric pressure plasma jet]</li>
+            <li> Diogenis Gavras [improving cubic equations of state with symbolic regression]</li>
+            <li> Nikolaos Plakentas [kinetis of the ammonium & potassium sulfate solid mixtures]</li>
         </ul>
     <a id="undergraduate-alumni" href=".#undergraduate-alumni">
         <h2 class="category">alumni Undergraduate</h2>
@@ -47,7 +49,7 @@ nav_order: 2
         <li>Jibran Khan (2018): University of Aarhus, Denmark [<a href="https://scholar.google.com/citations?user=tUffwOIAAAAJ&hl=en">Assistant Professor, Aarhus University, Denmark </a>]</li>
         <li>Arsenis Hadjimihailides (2019): Aristotle University of Thessaloniki, Greece [<a href="https://www.linkedin.com/in/arsenis-chatzimichailidis/">Senior Application Engineer at Simtec Software & Services</a>]</li>
         <li>Hala Hassan (2020): University of Surrey, UK [<a href="https://www.linkedin.com/in/hala-hassan-ph-d-2535bb1b/">Researcher, Galway, Ireland</a>]</li>
-        <li>Ahmed Badreldin (2023): Texas A&M University, US [<a href="https://scholar.google.com/citations?user=NYPLOL4AAAAJ&hl=en">Assistant Professor, The University of Mississippi]</a></li>
+        <!--<li>Ahmed Badreldin (2023): Texas A&M University, US [<a href="https://scholar.google.com/citations?user=NYPLOL4AAAAJ&hl=en">Assistant Professor, The University of Mississippi]</a></li> -->
     </ol>
         <h2 class="category">alumni Post-Graduate</h2>
     <ol>
